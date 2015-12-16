@@ -9,7 +9,7 @@ function logRateLimits(responseHeaders) {
     const limit = responseHeaders.get("X-RateLimit-Limit");
     const remaining = responseHeaders.get("X-RateLimit-Remaining");
     const resetTime = new Date(responseHeaders.get("X-RateLimit-Reset") * 1000).toLocaleString();
-    console.log(`GitHub rate limit: ${remaining}/${limit} requests until ${resetTime}`);
+    console.log(`GitHub rate limit: ${remaining}/${limit} remaining requests until ${resetTime}`);
 }
 
 function makeGitHubApiRequest(endpoint) {
@@ -33,11 +33,26 @@ function getLatestSha() {
 
 exports.getAllPackages = function getAllPackages() {
     return getLatestSha()
-        .then(sha => makeGitHubApiRequest(`${GITHUB_TREE_ENDPOINT}${sha}`))
+        .then(sha => makeGitHubApiRequest(`${GITHUB_TREE_ENDPOINT}${sha}?recursive=1`))
         .then(response => {
-            return response.tree
-                .filter(node => node.type === "tree")
+            if (response.truncated) {
+                console.error("List of typings was truncated.")
+            }
+            const packages = {};
+            response.tree
+                .filter(node => node.type === "blob" && node.path.indexOf("/") !== -1)
                 .map(directory => directory.path)
-                .sort((path1, path2) => path1.toLowerCase().localeCompare(path2.toLowerCase()));
+                .forEach(name => {
+                    const [packageName, ...fileNames] = name.split("/");
+                    const fileName = fileNames.join("/");
+                    packages[packageName] = packages[packageName] || [];
+                    packages[packageName].push(fileName);
+                });
+            return Object.keys(packages).map(packageName => {
+                return {
+                    packageName: packageName,
+                    fileNames: packages[packageName].filter(fileName => fileName.endsWith(".d.ts"))
+                };
+            }).sort((pkg1, pkg2) => pkg1.packageName.toLowerCase().localeCompare(pkg2.packageName.toLowerCase()));
         });
 }

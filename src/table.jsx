@@ -21,11 +21,22 @@ export default class Table extends React.Component {
             <input type="text" value={this.state.query} onChange={(event) => this.handleQueryChange(event)} />
             <ul>
             {
-                packages.map((packageName, index) => {
-                    return <li key={index}>
-                        <a href={`https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/${packageName}`}>
-                            {packageName}
+                packages.map(pkg => {
+                    return <li key={pkg.packageName}>
+                        <a href={`https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/${pkg.packageName}`}>
+                            {pkg.packageName}
                         </a>
+                        <ul>
+                        {
+                            pkg.fileNames.map(fileName => {
+                                return <li key={`${pkg.packageName}/${fileName}`}>
+                                    <a href={`https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/${pkg.packageName}/${fileName}`}>
+                                        {fileName}
+                                    </a>
+                                </li>
+                            })
+                        }
+                        </ul>
                     </li>;
                 })
             }

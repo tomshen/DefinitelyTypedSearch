@@ -5,17 +5,21 @@ import ReactDOM from "react-dom";
 import { getAllPackages } from "./github";
 import Table from "./table";
 
-const searchIndex = lunr(function () {
-    this.field("packageName");
+window.searchIndex = lunr(function () {
+    this.field("packageName", { boost: 10 });
+    this.field("fileNames");
     this.ref("id");
 });
 
 getAllPackages()
     .then(packages => {
-        packages.forEach((packageName, index) => searchIndex.add({
-            id: index,
-            packageName: packageName
-        }));
+        packages.forEach((pkg, index) => {
+            searchIndex.add({
+                id: index,
+                packageName: pkg.packageName,
+                fileNames: pkg.fileNames.join(" ")
+            });
+        });
         ReactDOM.render(
             <Table packages={packages} searchIndex={searchIndex}/>,
             document.getElementById("container")
