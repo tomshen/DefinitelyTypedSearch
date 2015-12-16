@@ -1,0 +1,33 @@
+{
+  "name": "definitely-typed-search",
+  "version": "1.0.0",
+  "description": "Search for DefinitelyTyped",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomshen/DefinitelyTypedSearch.git"
+  },
+  "author": "Tom Shen <tshen@palantir.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomshen/DefinitelyTypedSearch/issues"
+  },
+  "homepage": "https://github.com/tomshen/DefinitelyTypedSearch#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "es6-promise": "^3.0.2",
+    "isomorphic-fetch": "^2.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "html-webpack-plugin": "^1.7.0",
+    "webpack": "^1.12.9"
+  }
+}
