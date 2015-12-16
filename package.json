@@ -20,6 +20,7 @@
     "babel-preset-react": "^6.3.13",
     "es6-promise": "^3.0.2",
     "isomorphic-fetch": "^2.2.0",
+    "lunr": "^0.6.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
   },
