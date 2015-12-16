@@ -1,21 +1,21 @@
 {
-  "name": "definitely-typed-search",
+  "name": "typesearch",
   "version": "1.0.0",
-  "description": "Search for DefinitelyTyped",
+  "description": "Search for TypeScript typings",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomshen/DefinitelyTypedSearch.git"
+    "url": "git+https://github.com/tomshen/typesearch.git"
   },
   "author": "Tom Shen <tshen@palantir.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomshen/DefinitelyTypedSearch/issues"
+    "url": "https://github.com/tomshen/typesearch/issues"
   },
-  "homepage": "https://github.com/tomshen/DefinitelyTypedSearch#readme",
+  "homepage": "https://github.com/tomshen/typesearch#readme",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "es6-promise": "^3.0.2",

@@ -1,2 +1,2 @@
-# DefinitelyTypedSearch
-Search DefinitelyTyped
+# TypeSearch
+TypeScript type definition search
