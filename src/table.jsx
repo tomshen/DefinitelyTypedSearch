@@ -28,7 +28,9 @@ export default class Table extends React.Component {
                 autoFocus
             />
             <p>
-                Matched {packages.length} packages with type definitions.
+            {
+                this.state.query.length > 0 ? `Matched ${packages.length} packages with type definitions.` : ""
+            }
             </p>
             <ul>
             {
