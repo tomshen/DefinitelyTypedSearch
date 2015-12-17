@@ -1,3 +1,6 @@
+require("normalize.css");
+require("./app.css");
+
 import React from "react";
 import ReactDOM from "react-dom";
 

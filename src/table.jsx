@@ -1,3 +1,5 @@
+require("./table.css");
+
 import React from "react";
 
 export default class Table extends React.Component {
@@ -18,11 +20,14 @@ export default class Table extends React.Component {
             : this.props.searchIndex.search(this.state.query).map(result => this.props.packages[result.ref]);
 
         return <div className="search-table">
-            <input type="text" value={this.state.query} onChange={(event) => this.handleQueryChange(event)} />
+            <input className="search-query" type="text" value={this.state.query} onChange={(event) => this.handleQueryChange(event)} />
+            <p>
+                Matched {packages.length} packages with type definitions.
+            </p>
             <ul>
             {
                 packages.map(pkg => {
-                    return <li key={pkg.packageName}>
+                    return <li className="search-result" key={pkg.packageName}>
                         <a href={`https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/${pkg.packageName}`}>
                             {pkg.packageName}
                         </a>

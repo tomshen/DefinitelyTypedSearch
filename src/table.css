@@ -1,0 +1,35 @@
+.search-query {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    width: 100%;
+}
+
+.search-table > p {
+    padding-bottom: 0.5em;
+}
+
+.search-table ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 0.1em 0;
+}
+
+.search-result {
+    font-weight: 400;
+    padding: 0.5em 0;
+}
+
+.search-result + .search-result {
+    border-top: solid 1px #CCC;
+}
+
+.search-result > a {
+    font-weight: 700;
+}
+
+.search-result li:before {
+    content: '≫\00A0\00A0\00A0\00A0';
+}
