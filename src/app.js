@@ -1,15 +1,9 @@
-import lunr from "lunr";
 import React from "react";
 import ReactDOM from "react-dom";
 
 import { getAllPackages } from "./github";
+import searchIndex from "./search";
 import Table from "./table";
-
-window.searchIndex = lunr(function () {
-    this.field("packageName", { boost: 10 });
-    this.field("fileNames");
-    this.ref("id");
-});
 
 getAllPackages()
     .then(packages => {
