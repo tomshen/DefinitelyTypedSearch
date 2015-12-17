@@ -20,7 +20,13 @@ export default class Table extends React.Component {
             : this.props.searchIndex.search(this.state.query).map(result => this.props.packages[result.ref]);
 
         return <div className="search-table">
-            <input className="search-query" type="text" value={this.state.query} onChange={(event) => this.handleQueryChange(event)} />
+            <input
+                className="search-query"
+                type="text"
+                value={this.state.query}
+                onChange={(event) => this.handleQueryChange(event)}
+                autoFocus
+            />
             <p>
                 Matched {packages.length} packages with type definitions.
             </p>
