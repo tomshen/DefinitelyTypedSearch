@@ -1,0 +1,8860 @@
+[
+  {
+    "packageName": "_debugger",
+    "fileNames": [
+      "_debugger.d.ts"
+    ]
+  },
+  {
+    "packageName": "abs",
+    "fileNames": [
+      "abs.d.ts"
+    ]
+  },
+  {
+    "packageName": "absolute",
+    "fileNames": [
+      "absolute.d.ts"
+    ]
+  },
+  {
+    "packageName": "acc-wizard",
+    "fileNames": [
+      "acc-wizard.d.ts"
+    ]
+  },
+  {
+    "packageName": "accounting",
+    "fileNames": [
+      "accounting.d.ts"
+    ]
+  },
+  {
+    "packageName": "ace",
+    "fileNames": [
+      "ace.d.ts"
+    ]
+  },
+  {
+    "packageName": "acl",
+    "fileNames": [
+      "acl.d.ts"
+    ]
+  },
+  {
+    "packageName": "acorn",
+    "fileNames": [
+      "acorn.d.ts"
+    ]
+  },
+  {
+    "packageName": "add2home",
+    "fileNames": [
+      "add2home.d.ts"
+    ]
+  },
+  {
+    "packageName": "adm-zip",
+    "fileNames": [
+      "adm-zip.d.ts"
+    ]
+  },
+  {
+    "packageName": "ag-grid",
+    "fileNames": [
+      "ag-grid.d.ts"
+    ]
+  },
+  {
+    "packageName": "alertify",
+    "fileNames": [
+      "alertify.d.ts"
+    ]
+  },
+  {
+    "packageName": "alt",
+    "fileNames": [
+      "alt.d.ts"
+    ]
+  },
+  {
+    "packageName": "amazon-product-api",
+    "fileNames": [
+      "amazon-product-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "amcharts",
+    "fileNames": [
+      "AmCharts.d.ts"
+    ]
+  },
+  {
+    "packageName": "amplify-deferred",
+    "fileNames": [
+      "amplify-deferred.d.ts"
+    ]
+  },
+  {
+    "packageName": "amplifyjs",
+    "fileNames": [
+      "amplifyjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "amqp-rpc",
+    "fileNames": [
+      "amqp-rpc.d.ts"
+    ]
+  },
+  {
+    "packageName": "amqplib",
+    "fileNames": [
+      "amqplib.d.ts"
+    ]
+  },
+  {
+    "packageName": "analytics-node",
+    "fileNames": [
+      "analytics-node.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-agility",
+    "fileNames": [
+      "angular-agility.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-bootstrap-lightbox",
+    "fileNames": [
+      "angular-bootstrap-lightbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-dialog-service",
+    "fileNames": [
+      "angular-dialog-service.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-dynamic-locale",
+    "fileNames": [
+      "angular-dynamic-locale.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-file-upload",
+    "fileNames": [
+      "angular-file-upload.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-formly",
+    "fileNames": [
+      "angular-formly.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-gettext",
+    "fileNames": [
+      "angular-gettext.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-google-analytics",
+    "fileNames": [
+      "angular-google-analytics.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-growl-v2",
+    "fileNames": [
+      "angular-growl-v2.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-hotkeys",
+    "fileNames": [
+      "angular-hotkeys.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-http-auth",
+    "fileNames": [
+      "angular-http-auth.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-httpi",
+    "fileNames": [
+      "angular-httpi.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-idle",
+    "fileNames": [
+      "angular-idle.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-jwt",
+    "fileNames": [
+      "angular-jwt.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-loading-bar",
+    "fileNames": [
+      "angular-loading-bar.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-local-storage",
+    "fileNames": [
+      "angular-local-storage.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-localForage",
+    "fileNames": [
+      "angular-localForage.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-material",
+    "fileNames": [
+      "angular-material-0.8.3.d.ts",
+      "angular-material-0.9.0.d.ts",
+      "angular-material.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-meteor",
+    "fileNames": [
+      "angular-meteor.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-modal",
+    "fileNames": [
+      "angular-modal.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-notifications",
+    "fileNames": [
+      "angular-notifications.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-notify",
+    "fileNames": [
+      "angular-notify.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-odata-resources",
+    "fileNames": [
+      "angular-odata-resources.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-protractor",
+    "fileNames": [
+      "angular-protractor.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-scenario",
+    "fileNames": [
+      "angular-scenario.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-scroll",
+    "fileNames": [
+      "angular-scroll.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-signalr-hub",
+    "fileNames": [
+      "angular-signalr-hub.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-spinner",
+    "fileNames": [
+      "angular-spinner.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-storage",
+    "fileNames": [
+      "angular-storage.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-strap",
+    "fileNames": [
+      "angular-strap.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-toasty",
+    "fileNames": [
+      "angular-toasty.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-translate",
+    "fileNames": [
+      "angular-translate.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-ui-bootstrap",
+    "fileNames": [
+      "angular-ui-bootstrap.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-ui-router",
+    "fileNames": [
+      "angular-ui-router.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-ui-scroll",
+    "fileNames": [
+      "angular-ui-scroll.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-ui-sortable",
+    "fileNames": [
+      "angular-ui-sortable.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-ui-tree",
+    "fileNames": [
+      "angular-ui-tree.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular-wizard",
+    "fileNames": [
+      "angular-wizard.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular.throttle",
+    "fileNames": [
+      "angular.throttle.d.ts"
+    ]
+  },
+  {
+    "packageName": "angular2",
+    "fileNames": [
+      "angular2-2.0.0-alpha.26.d.ts",
+      "angular2-2.0.0-alpha.28.d.ts",
+      "angular2-2.0.0-alpha.30.d.ts",
+      "angular2-2.0.0-alpha.31.d.ts",
+      "angular2-2.0.0-alpha.32.d.ts",
+      "angular2-2.0.0-alpha.33.d.ts",
+      "angular2-2.0.0-alpha.34.d.ts",
+      "angular2-2.0.0-alpha.35.d.ts",
+      "angular2-2.0.0-alpha.36.d.ts",
+      "angular2-2.0.0-alpha.37.d.ts",
+      "angular2-2.0.0-alpha.38.d.ts",
+      "angular2-2.0.0-alpha.39.d.ts",
+      "angular2.d.ts",
+      "http-2.0.0-alpha.37.d.ts",
+      "http-2.0.0-alpha.38.d.ts",
+      "http-2.0.0-alpha.39.d.ts",
+      "router-2.0.0-alpha.30.d.ts",
+      "router-2.0.0-alpha.31.d.ts",
+      "router-2.0.0-alpha.34.d.ts",
+      "router-2.0.0-alpha.35.d.ts",
+      "router-2.0.0-alpha.36.d.ts",
+      "router-2.0.0-alpha.37.d.ts",
+      "router-2.0.0-alpha.38.d.ts",
+      "router-2.0.0-alpha.39.d.ts",
+      "test_lib-2.0.0-alpha.38.d.ts",
+      "test_lib-2.0.0-alpha.39.d.ts"
+    ]
+  },
+  {
+    "packageName": "angularfire",
+    "fileNames": [
+      "angularfire.d.ts"
+    ]
+  },
+  {
+    "packageName": "angularjs",
+    "fileNames": [
+      "angular-animate.d.ts",
+      "angular-cookies.d.ts",
+      "angular-mocks.d.ts",
+      "angular-resource.d.ts",
+      "angular-route.d.ts",
+      "angular-sanitize.d.ts",
+      "angular.d.ts",
+      "legacy/angular-1.0.d.ts",
+      "legacy/angular-1.2.d.ts",
+      "legacy/angular-animate-1.2.d.ts",
+      "legacy/angular-cookies-1.0.d.ts",
+      "legacy/angular-cookies-1.2.d.ts",
+      "legacy/angular-mocks-1.0.d.ts",
+      "legacy/angular-mocks-1.2.d.ts",
+      "legacy/angular-resource-1.0.d.ts",
+      "legacy/angular-resource-1.2.d.ts",
+      "legacy/angular-route-1.2.d.ts",
+      "legacy/angular-sanitize-1.0.d.ts",
+      "legacy/angular-sanitize-1.2.d.ts",
+      "legacy/angular-scenario-1.0.d.ts",
+      "legacy/angular-scenario-1.2.d.ts"
+    ]
+  },
+  {
+    "packageName": "angularjs-toaster",
+    "fileNames": [
+      "angularjs-toaster.d.ts"
+    ]
+  },
+  {
+    "packageName": "angularLocalStorage",
+    "fileNames": [
+      "angularLocalStorage.d.ts"
+    ]
+  },
+  {
+    "packageName": "angulartics",
+    "fileNames": [
+      "angulartics.d.ts"
+    ]
+  },
+  {
+    "packageName": "animation-frame",
+    "fileNames": [
+      "animation-frame.d.ts"
+    ]
+  },
+  {
+    "packageName": "ansi-styles",
+    "fileNames": [
+      "ansi-styles.d.ts"
+    ]
+  },
+  {
+    "packageName": "ansicolors",
+    "fileNames": [
+      "ansicolors.d.ts"
+    ]
+  },
+  {
+    "packageName": "any-db",
+    "fileNames": [
+      "any-db.d.ts"
+    ]
+  },
+  {
+    "packageName": "any-db-transaction",
+    "fileNames": [
+      "any-db-transaction.d.ts"
+    ]
+  },
+  {
+    "packageName": "anydb-sql",
+    "fileNames": [
+      "anydb-sql.d.ts"
+    ]
+  },
+  {
+    "packageName": "anydb-sql-migrations",
+    "fileNames": [
+      "anydb-sql-migrations.d.ts"
+    ]
+  },
+  {
+    "packageName": "api-error-handler",
+    "fileNames": [
+      "api-error-handler.d.ts"
+    ]
+  },
+  {
+    "packageName": "apn",
+    "fileNames": [
+      "apn.d.ts"
+    ]
+  },
+  {
+    "packageName": "appframework",
+    "fileNames": [
+      "appframework.d.ts"
+    ]
+  },
+  {
+    "packageName": "appletvjs",
+    "fileNames": [
+      "appletvjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "applicationinsights",
+    "fileNames": [
+      "applicationinsights.d.ts"
+    ]
+  },
+  {
+    "packageName": "arbiter",
+    "fileNames": [
+      "Arbiter.d.ts"
+    ]
+  },
+  {
+    "packageName": "arcgis-js-api",
+    "fileNames": [
+      "arcgis-js-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "archiver",
+    "fileNames": [
+      "archiver.d.ts"
+    ]
+  },
+  {
+    "packageName": "archy",
+    "fileNames": [
+      "archy.d.ts"
+    ]
+  },
+  {
+    "packageName": "argparse",
+    "fileNames": [
+      "argparse.d.ts"
+    ]
+  },
+  {
+    "packageName": "asciify",
+    "fileNames": [
+      "asciify.d.ts"
+    ]
+  },
+  {
+    "packageName": "aspnet-identity-pw",
+    "fileNames": [
+      "aspnet-identity-pw.d.ts"
+    ]
+  },
+  {
+    "packageName": "assert",
+    "fileNames": [
+      "assert.d.ts"
+    ]
+  },
+  {
+    "packageName": "assertion-error",
+    "fileNames": [
+      "assertion-error.d.ts"
+    ]
+  },
+  {
+    "packageName": "assertsharp",
+    "fileNames": [
+      "assertsharp.d.ts"
+    ]
+  },
+  {
+    "packageName": "async",
+    "fileNames": [
+      "async.d.ts"
+    ]
+  },
+  {
+    "packageName": "async-writer",
+    "fileNames": [
+      "async-writer.d.ts"
+    ]
+  },
+  {
+    "packageName": "asyncblock",
+    "fileNames": [
+      "asyncblock.d.ts"
+    ]
+  },
+  {
+    "packageName": "atmosphere",
+    "fileNames": [
+      "atmosphere.d.ts"
+    ]
+  },
+  {
+    "packageName": "atom",
+    "fileNames": [
+      "api-docs.d.ts",
+      "atom.d.ts"
+    ]
+  },
+  {
+    "packageName": "atom-keymap",
+    "fileNames": [
+      "atom-keymap.d.ts"
+    ]
+  },
+  {
+    "packageName": "atpl",
+    "fileNames": [
+      "atpl.d.ts"
+    ]
+  },
+  {
+    "packageName": "auth0",
+    "fileNames": [
+      "auth0.d.ts"
+    ]
+  },
+  {
+    "packageName": "auth0.lock",
+    "fileNames": [
+      "auth0.lock.d.ts"
+    ]
+  },
+  {
+    "packageName": "auth0.widget",
+    "fileNames": [
+      "auth0.widget.d.ts"
+    ]
+  },
+  {
+    "packageName": "auto-launch",
+    "fileNames": [
+      "auto-launch.d.ts"
+    ]
+  },
+  {
+    "packageName": "autobahn",
+    "fileNames": [
+      "autobahn.d.ts"
+    ]
+  },
+  {
+    "packageName": "autoprefixer-core",
+    "fileNames": [
+      "autoprefixer-core.d.ts"
+    ]
+  },
+  {
+    "packageName": "aws-sdk",
+    "fileNames": [
+      "aws-sdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "axios",
+    "fileNames": [
+      "axios.d.ts"
+    ]
+  },
+  {
+    "packageName": "azure-mobile-services-client",
+    "fileNames": [
+      "AzureMobileServicesClient.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone",
+    "fileNames": [
+      "backbone-global.d.ts",
+      "backbone.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone-associations",
+    "fileNames": [
+      "backbone-associations.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone-relational",
+    "fileNames": [
+      "backbone-relational.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone.layoutmanager",
+    "fileNames": [
+      "backbone.layoutmanager.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone.paginator",
+    "fileNames": [
+      "backbone.paginator.d.ts"
+    ]
+  },
+  {
+    "packageName": "backbone.radio",
+    "fileNames": [
+      "backbone.radio.d.ts"
+    ]
+  },
+  {
+    "packageName": "backgrid",
+    "fileNames": [
+      "backgrid.d.ts"
+    ]
+  },
+  {
+    "packageName": "baconjs",
+    "fileNames": [
+      "baconjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "barcode",
+    "fileNames": [
+      "barcode.d.ts"
+    ]
+  },
+  {
+    "packageName": "bardjs",
+    "fileNames": [
+      "bardjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "basic-auth",
+    "fileNames": [
+      "basic-auth.d.ts"
+    ]
+  },
+  {
+    "packageName": "batch-stream",
+    "fileNames": [
+      "batch-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "bcrypt",
+    "fileNames": [
+      "bcrypt.d.ts"
+    ]
+  },
+  {
+    "packageName": "bcryptjs",
+    "fileNames": [
+      "bcryptjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "benchmark",
+    "fileNames": [
+      "benchmark.d.ts"
+    ]
+  },
+  {
+    "packageName": "better-curry",
+    "fileNames": [
+      "better-curry.d.ts"
+    ]
+  },
+  {
+    "packageName": "bgiframe",
+    "fileNames": [
+      "typescript.bgiframe.d.ts"
+    ]
+  },
+  {
+    "packageName": "big-integer",
+    "fileNames": [
+      "big-integer.d.ts"
+    ]
+  },
+  {
+    "packageName": "big.js",
+    "fileNames": [
+      "big.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "bigint",
+    "fileNames": [
+      "bigint.d.ts"
+    ]
+  },
+  {
+    "packageName": "bignum",
+    "fileNames": [
+      "bignum.d.ts"
+    ]
+  },
+  {
+    "packageName": "bigscreen",
+    "fileNames": [
+      "bigscreen.d.ts"
+    ]
+  },
+  {
+    "packageName": "bingmaps",
+    "fileNames": [
+      "Microsoft.Maps.AdvancedShapes.d.ts",
+      "Microsoft.Maps.Directions.d.ts",
+      "Microsoft.Maps.Search.d.ts",
+      "Microsoft.Maps.Themes.BingTheme.d.ts",
+      "Microsoft.Maps.Traffic.d.ts",
+      "Microsoft.Maps.VenueMaps.d.ts",
+      "Microsoft.Maps.d.ts"
+    ]
+  },
+  {
+    "packageName": "bitwise-xor",
+    "fileNames": [
+      "bitwise-xor.d.ts"
+    ]
+  },
+  {
+    "packageName": "bl",
+    "fileNames": [
+      "bl.d.ts"
+    ]
+  },
+  {
+    "packageName": "blob-stream",
+    "fileNames": [
+      "blob-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "blocks",
+    "fileNames": [
+      "blocks.d.ts"
+    ]
+  },
+  {
+    "packageName": "blue-tape",
+    "fileNames": [
+      "blue-tape.d.ts"
+    ]
+  },
+  {
+    "packageName": "bluebird",
+    "fileNames": [
+      "bluebird-1.0.d.ts",
+      "bluebird.d.ts"
+    ]
+  },
+  {
+    "packageName": "bluebird-retry",
+    "fileNames": [
+      "bluebird-retry.d.ts"
+    ]
+  },
+  {
+    "packageName": "blueimp-md5",
+    "fileNames": [
+      "blueimp-md5.d.ts"
+    ]
+  },
+  {
+    "packageName": "body-parser",
+    "fileNames": [
+      "body-parser.d.ts"
+    ]
+  },
+  {
+    "packageName": "bookshelf",
+    "fileNames": [
+      "bookshelf.d.ts"
+    ]
+  },
+  {
+    "packageName": "boolify-string",
+    "fileNames": [
+      "boolify-string.d.ts"
+    ]
+  },
+  {
+    "packageName": "boom",
+    "fileNames": [
+      "boom.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootbox",
+    "fileNames": [
+      "bootbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap",
+    "fileNames": [
+      "bootstrap.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap-maxlength",
+    "fileNames": [
+      "bootstrap-maxlength.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap-notify",
+    "fileNames": [
+      "bootstrap-notify.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap-slider",
+    "fileNames": [
+      "bootstrap-slider.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap-switch",
+    "fileNames": [
+      "bootstrap-switch.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap-touchspin",
+    "fileNames": [
+      "bootstrap-touchspin.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap.datepicker",
+    "fileNames": [
+      "bootstrap.datepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap.paginator",
+    "fileNames": [
+      "bootstrap.paginator.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap.timepicker",
+    "fileNames": [
+      "bootstrap.timepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "bootstrap.v3.datetimepicker",
+    "fileNames": [
+      "bootstrap.v3.datetimepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "bounce",
+    "fileNames": [
+      "bounce.d.ts"
+    ]
+  },
+  {
+    "packageName": "bowser",
+    "fileNames": [
+      "bowser.d.ts"
+    ]
+  },
+  {
+    "packageName": "box2d",
+    "fileNames": [
+      "box2dweb.d.ts"
+    ]
+  },
+  {
+    "packageName": "breeze",
+    "fileNames": [
+      "breeze.d.ts"
+    ]
+  },
+  {
+    "packageName": "browser-harness",
+    "fileNames": [
+      "browser-harness.d.ts"
+    ]
+  },
+  {
+    "packageName": "browser-sync",
+    "fileNames": [
+      "browser-sync.d.ts"
+    ]
+  },
+  {
+    "packageName": "browserify",
+    "fileNames": [
+      "browserify.d.ts"
+    ]
+  },
+  {
+    "packageName": "bucks",
+    "fileNames": [
+      "bucks.d.ts"
+    ]
+  },
+  {
+    "packageName": "buffer-compare",
+    "fileNames": [
+      "buffer-compare.d.ts"
+    ]
+  },
+  {
+    "packageName": "buffer-equal",
+    "fileNames": [
+      "buffer-equal.d.ts"
+    ]
+  },
+  {
+    "packageName": "buffers",
+    "fileNames": [
+      "buffers.d.ts"
+    ]
+  },
+  {
+    "packageName": "bufferstream",
+    "fileNames": [
+      "bufferstream.d.ts"
+    ]
+  },
+  {
+    "packageName": "bull",
+    "fileNames": [
+      "bull.d.ts"
+    ]
+  },
+  {
+    "packageName": "bunyan",
+    "fileNames": [
+      "bunyan.d.ts"
+    ]
+  },
+  {
+    "packageName": "bunyan-logentries",
+    "fileNames": [
+      "bunyan-logentries.d.ts"
+    ]
+  },
+  {
+    "packageName": "bunyan-prettystream",
+    "fileNames": [
+      "bunyan-prettystream.d.ts"
+    ]
+  },
+  {
+    "packageName": "business-rules-engine",
+    "fileNames": [
+      "BasicValidators.d.ts",
+      "Utils.d.ts",
+      "Validation.d.ts",
+      "business-rules-engine.d.ts"
+    ]
+  },
+  {
+    "packageName": "byline",
+    "fileNames": [
+      "byline.d.ts"
+    ]
+  },
+  {
+    "packageName": "bytebuffer",
+    "fileNames": [
+      "bytebuffer.d.ts"
+    ]
+  },
+  {
+    "packageName": "bytes",
+    "fileNames": [
+      "bytes.d.ts"
+    ]
+  },
+  {
+    "packageName": "c3",
+    "fileNames": [
+      "c3.d.ts"
+    ]
+  },
+  {
+    "packageName": "cal-heatmap",
+    "fileNames": [
+      "cal-heatmap.d.ts"
+    ]
+  },
+  {
+    "packageName": "calq",
+    "fileNames": [
+      "calq.d.ts"
+    ]
+  },
+  {
+    "packageName": "camel-case",
+    "fileNames": [
+      "camel-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "camljs",
+    "fileNames": [
+      "camljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "canvasjs",
+    "fileNames": [
+      "canvasjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "casperjs",
+    "fileNames": [
+      "casperjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai",
+    "fileNames": [
+      "chai-2.0.0.d.ts",
+      "chai.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-as-promised",
+    "fileNames": [
+      "chai-as-promised.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-datetime",
+    "fileNames": [
+      "chai-datetime.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-fuzzy",
+    "fileNames": [
+      "chai-fuzzy.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-http",
+    "fileNames": [
+      "chai-http.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-jquery",
+    "fileNames": [
+      "chai-jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-string",
+    "fileNames": [
+      "chai-string.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-subset",
+    "fileNames": [
+      "chai-subset.d.ts"
+    ]
+  },
+  {
+    "packageName": "chai-things",
+    "fileNames": [
+      "chai-things.d.ts"
+    ]
+  },
+  {
+    "packageName": "chalk",
+    "fileNames": [
+      "chalk.d.ts"
+    ]
+  },
+  {
+    "packageName": "chance",
+    "fileNames": [
+      "chance.d.ts"
+    ]
+  },
+  {
+    "packageName": "change-case",
+    "fileNames": [
+      "change-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "chartist",
+    "fileNames": [
+      "chartist.d.ts"
+    ]
+  },
+  {
+    "packageName": "chartjs",
+    "fileNames": [
+      "chart.d.ts"
+    ]
+  },
+  {
+    "packageName": "checksum",
+    "fileNames": [
+      "checksum.d.ts"
+    ]
+  },
+  {
+    "packageName": "cheerio",
+    "fileNames": [
+      "cheerio.d.ts"
+    ]
+  },
+  {
+    "packageName": "chocolatechipjs",
+    "fileNames": [
+      "chocolatechipjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "chokidar",
+    "fileNames": [
+      "chokidar.d.ts"
+    ]
+  },
+  {
+    "packageName": "chosen",
+    "fileNames": [
+      "chosen.jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "chroma-js",
+    "fileNames": [
+      "chroma-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "chrome",
+    "fileNames": [
+      "chrome-app.d.ts",
+      "chrome-cast.d.ts",
+      "chrome.d.ts"
+    ]
+  },
+  {
+    "packageName": "chui",
+    "fileNames": [
+      "chui.d.ts"
+    ]
+  },
+  {
+    "packageName": "circular-json",
+    "fileNames": [
+      "circular-json.d.ts"
+    ]
+  },
+  {
+    "packageName": "ckeditor",
+    "fileNames": [
+      "ckeditor.d.ts"
+    ]
+  },
+  {
+    "packageName": "classnames",
+    "fileNames": [
+      "classnames.d.ts"
+    ]
+  },
+  {
+    "packageName": "cli-color",
+    "fileNames": [
+      "cli-color.d.ts"
+    ]
+  },
+  {
+    "packageName": "clone",
+    "fileNames": [
+      "clone.d.ts"
+    ]
+  },
+  {
+    "packageName": "closure-compiler",
+    "fileNames": [
+      "closure-compiler.d.ts"
+    ]
+  },
+  {
+    "packageName": "codemirror",
+    "fileNames": [
+      "codemirror-matchbrackets.d.ts",
+      "codemirror-showhint.d.ts",
+      "codemirror.d.ts",
+      "searchcursor.d.ts"
+    ]
+  },
+  {
+    "packageName": "coffeeify",
+    "fileNames": [
+      "coffeeify.d.ts"
+    ]
+  },
+  {
+    "packageName": "colorbrewer",
+    "fileNames": [
+      "colorbrewer.d.ts"
+    ]
+  },
+  {
+    "packageName": "colors",
+    "fileNames": [
+      "colors.d.ts"
+    ]
+  },
+  {
+    "packageName": "cometd",
+    "fileNames": [
+      "cometd.d.ts"
+    ]
+  },
+  {
+    "packageName": "commander",
+    "fileNames": [
+      "commander.d.ts"
+    ]
+  },
+  {
+    "packageName": "compare-version",
+    "fileNames": [
+      "compare-version.d.ts"
+    ]
+  },
+  {
+    "packageName": "complex",
+    "fileNames": [
+      "complex.d.ts"
+    ]
+  },
+  {
+    "packageName": "compose-function",
+    "fileNames": [
+      "compose-function.d.ts"
+    ]
+  },
+  {
+    "packageName": "compression",
+    "fileNames": [
+      "compression.d.ts"
+    ]
+  },
+  {
+    "packageName": "config",
+    "fileNames": [
+      "config.d.ts"
+    ]
+  },
+  {
+    "packageName": "configstore",
+    "fileNames": [
+      "configstore.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect",
+    "fileNames": [
+      "connect.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-flash",
+    "fileNames": [
+      "connect-flash.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-livereload",
+    "fileNames": [
+      "connect-livereload.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-modrewrite",
+    "fileNames": [
+      "connect-modrewrite.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-mongo",
+    "fileNames": [
+      "connect-mongo.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-slashes",
+    "fileNames": [
+      "connect-slashes.d.ts"
+    ]
+  },
+  {
+    "packageName": "connect-timeout",
+    "fileNames": [
+      "connect-timeout.d.ts"
+    ]
+  },
+  {
+    "packageName": "consolidate",
+    "fileNames": [
+      "consolidate.d.ts"
+    ]
+  },
+  {
+    "packageName": "constant-case",
+    "fileNames": [
+      "constant-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "content-type",
+    "fileNames": [
+      "content-type.d.ts"
+    ]
+  },
+  {
+    "packageName": "contextjs",
+    "fileNames": [
+      "contextjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "convert-source-map",
+    "fileNames": [
+      "convert-source-map.d.ts"
+    ]
+  },
+  {
+    "packageName": "convict",
+    "fileNames": [
+      "convict.d.ts"
+    ]
+  },
+  {
+    "packageName": "cookie",
+    "fileNames": [
+      "cookie.d.ts"
+    ]
+  },
+  {
+    "packageName": "cookie-parser",
+    "fileNames": [
+      "cookie-parser.d.ts"
+    ]
+  },
+  {
+    "packageName": "cookiejs",
+    "fileNames": [
+      "cookiejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "cookies",
+    "fileNames": [
+      "cookies.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova",
+    "fileNames": [
+      "cordova.d.ts",
+      "plugins/BatteryStatus.d.ts",
+      "plugins/Camera.d.ts",
+      "plugins/Contacts.d.ts",
+      "plugins/Device.d.ts",
+      "plugins/DeviceMotion.d.ts",
+      "plugins/DeviceOrientation.d.ts",
+      "plugins/Dialogs.d.ts",
+      "plugins/FileSystem.d.ts",
+      "plugins/FileTransfer.d.ts",
+      "plugins/Globalization.d.ts",
+      "plugins/InAppBrowser.d.ts",
+      "plugins/Keyboard.d.ts",
+      "plugins/Media.d.ts",
+      "plugins/MediaCapture.d.ts",
+      "plugins/NetworkInformation.d.ts",
+      "plugins/Push.d.ts",
+      "plugins/Splashscreen.d.ts",
+      "plugins/StatusBar.d.ts",
+      "plugins/Vibration.d.ts",
+      "plugins/WebSQL.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-ionic",
+    "fileNames": [
+      "cordova-ionic.d.ts",
+      "plugins/keyboard.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-plugin-app-version",
+    "fileNames": [
+      "cordova-plugin-app-version.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-plugin-email-composer",
+    "fileNames": [
+      "cordova-plugin-email-composer.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-plugin-ibeacon",
+    "fileNames": [
+      "cordova-plugin-ibeacon.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-plugin-ouralabs",
+    "fileNames": [
+      "cordova-plugin-ouralabs.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordova-plugin-spinner",
+    "fileNames": [
+      "cordova-plugin-spinner.d.ts"
+    ]
+  },
+  {
+    "packageName": "cordovarduino",
+    "fileNames": [
+      "cordovarduino.d.ts"
+    ]
+  },
+  {
+    "packageName": "core-decorators",
+    "fileNames": [
+      "core-decorators.d.ts"
+    ]
+  },
+  {
+    "packageName": "core-js",
+    "fileNames": [
+      "core-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "cors",
+    "fileNames": [
+      "cors.d.ts"
+    ]
+  },
+  {
+    "packageName": "couchbase",
+    "fileNames": [
+      "couchbase.d.ts"
+    ]
+  },
+  {
+    "packageName": "cradle",
+    "fileNames": [
+      "cradle.d.ts"
+    ]
+  },
+  {
+    "packageName": "createjs",
+    "fileNames": [
+      "createjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "createjs-lib",
+    "fileNames": [
+      "createjs-lib.d.ts"
+    ]
+  },
+  {
+    "packageName": "credential",
+    "fileNames": [
+      "credential.d.ts"
+    ]
+  },
+  {
+    "packageName": "cron",
+    "fileNames": [
+      "cron.d.ts"
+    ]
+  },
+  {
+    "packageName": "crossfilter",
+    "fileNames": [
+      "crossfilter.d.ts"
+    ]
+  },
+  {
+    "packageName": "crossroads",
+    "fileNames": [
+      "crossroads.d.ts"
+    ]
+  },
+  {
+    "packageName": "crypto-js",
+    "fileNames": [
+      "crypto-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "cryptojs",
+    "fileNames": [
+      "cryptojs.d.ts"
+    ]
+  },
+  {
+    "packageName": "cson",
+    "fileNames": [
+      "cson.d.ts"
+    ]
+  },
+  {
+    "packageName": "css",
+    "fileNames": [
+      "css.d.ts"
+    ]
+  },
+  {
+    "packageName": "csurf",
+    "fileNames": [
+      "csurf.d.ts"
+    ]
+  },
+  {
+    "packageName": "csv-stringify",
+    "fileNames": [
+      "csv-stringify.d.ts"
+    ]
+  },
+  {
+    "packageName": "cucumber",
+    "fileNames": [
+      "cucumber.d.ts"
+    ]
+  },
+  {
+    "packageName": "cuid",
+    "fileNames": [
+      "cuid.d.ts"
+    ]
+  },
+  {
+    "packageName": "custom-error-generator",
+    "fileNames": [
+      "custom-error-generator.d.ts"
+    ]
+  },
+  {
+    "packageName": "d3",
+    "fileNames": [
+      "d3.d.ts",
+      "plugins/d3.superformula.d.ts"
+    ]
+  },
+  {
+    "packageName": "d3.cloud.layout",
+    "fileNames": [
+      "d3.cloud.layout.d.ts"
+    ]
+  },
+  {
+    "packageName": "dagre",
+    "fileNames": [
+      "dagre.d.ts"
+    ]
+  },
+  {
+    "packageName": "dagre-d3",
+    "fileNames": [
+      "dagre-d3.d.ts"
+    ]
+  },
+  {
+    "packageName": "dat-gui",
+    "fileNames": [
+      "dat-gui.d.ts"
+    ]
+  },
+  {
+    "packageName": "data-driven",
+    "fileNames": [
+      "data-driven.d.ts"
+    ]
+  },
+  {
+    "packageName": "DataStream.js",
+    "fileNames": [
+      "DataStream.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "date.format.js",
+    "fileNames": [
+      "date.format.d.ts"
+    ]
+  },
+  {
+    "packageName": "datejs",
+    "fileNames": [
+      "datejs.d.ts",
+      "sugarpak.d.ts"
+    ]
+  },
+  {
+    "packageName": "dcjs",
+    "fileNames": [
+      "dc-1.6.0.d.ts",
+      "dc.d.ts"
+    ]
+  },
+  {
+    "packageName": "debounce",
+    "fileNames": [
+      "debounce.d.ts"
+    ]
+  },
+  {
+    "packageName": "debug",
+    "fileNames": [
+      "debug.d.ts"
+    ]
+  },
+  {
+    "packageName": "decimal.js",
+    "fileNames": [
+      "decimal.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "decorum",
+    "fileNames": [
+      "decorum.d.ts"
+    ]
+  },
+  {
+    "packageName": "deep-diff",
+    "fileNames": [
+      "deep-diff.d.ts"
+    ]
+  },
+  {
+    "packageName": "deep-freeze",
+    "fileNames": [
+      "deep-freeze.d.ts"
+    ]
+  },
+  {
+    "packageName": "del",
+    "fileNames": [
+      "del.d.ts"
+    ]
+  },
+  {
+    "packageName": "denodeify",
+    "fileNames": [
+      "denodeify.d.ts"
+    ]
+  },
+  {
+    "packageName": "depd",
+    "fileNames": [
+      "depd.d.ts"
+    ]
+  },
+  {
+    "packageName": "deployJava",
+    "fileNames": [
+      "deployJava.d.ts"
+    ]
+  },
+  {
+    "packageName": "detect-indent",
+    "fileNames": [
+      "detect-indent.d.ts"
+    ]
+  },
+  {
+    "packageName": "devextreme",
+    "fileNames": [
+      "devextreme-15.1.3.d.ts",
+      "devextreme-15.1.4.d.ts",
+      "devextreme-15.1.5.d.ts",
+      "devextreme-15.1.6.d.ts",
+      "devextreme-15.1.7.d.ts",
+      "devextreme-15.1.8.d.ts",
+      "devextreme.d.ts"
+    ]
+  },
+  {
+    "packageName": "dexie",
+    "fileNames": [
+      "dexie.d.ts"
+    ]
+  },
+  {
+    "packageName": "dhtmlxgantt",
+    "fileNames": [
+      "dhtmlxgantt.d.ts"
+    ]
+  },
+  {
+    "packageName": "dhtmlxscheduler",
+    "fileNames": [
+      "dhtmlxscheduler.d.ts"
+    ]
+  },
+  {
+    "packageName": "di-lite",
+    "fileNames": [
+      "di-lite.d.ts"
+    ]
+  },
+  {
+    "packageName": "diff",
+    "fileNames": [
+      "diff.d.ts"
+    ]
+  },
+  {
+    "packageName": "diff-match-patch",
+    "fileNames": [
+      "diff-match-patch.d.ts"
+    ]
+  },
+  {
+    "packageName": "docCookies",
+    "fileNames": [
+      "docCookies.d.ts"
+    ]
+  },
+  {
+    "packageName": "dock-spawn",
+    "fileNames": [
+      "dock-spawn.d.ts"
+    ]
+  },
+  {
+    "packageName": "docopt",
+    "fileNames": [
+      "docopt.d.ts"
+    ]
+  },
+  {
+    "packageName": "documentdb",
+    "fileNames": [
+      "documentdb.d.ts"
+    ]
+  },
+  {
+    "packageName": "documentdb-server",
+    "fileNames": [
+      "documentdb-server.d.ts"
+    ]
+  },
+  {
+    "packageName": "dojo",
+    "fileNames": [
+      "dijit.d.ts",
+      "doh.d.ts",
+      "dojo.d.ts",
+      "dojox.NodeList.d.ts",
+      "dojox.analytics.d.ts",
+      "dojox.app.d.ts",
+      "dojox.atom.d.ts",
+      "dojox.av.d.ts",
+      "dojox.calc.d.ts",
+      "dojox.calendar.d.ts",
+      "dojox.charting.d.ts",
+      "dojox.collections.d.ts",
+      "dojox.color.d.ts",
+      "dojox.css3.d.ts",
+      "dojox.data.d.ts",
+      "dojox.date.d.ts",
+      "dojox.dgauges.d.ts",
+      "dojox.dnd.d.ts",
+      "dojox.drawing.d.ts",
+      "dojox.dtl.d.ts",
+      "dojox.editor.d.ts",
+      "dojox.embed.d.ts",
+      "dojox.encoding.d.ts",
+      "dojox.flash.d.ts",
+      "dojox.form.d.ts",
+      "dojox.fx.d.ts",
+      "dojox.gantt.d.ts",
+      "dojox.gauges.d.ts",
+      "dojox.geo.d.ts",
+      "dojox.gesture.d.ts",
+      "dojox.gfx.d.ts",
+      "dojox.gfx3d.d.ts",
+      "dojox.grid.d.ts",
+      "dojox.help.d.ts",
+      "dojox.highlight.d.ts",
+      "dojox.html.d.ts",
+      "dojox.image.d.ts",
+      "dojox.io.d.ts",
+      "dojox.jq.d.ts",
+      "dojox.json.d.ts",
+      "dojox.jsonPath.d.ts",
+      "dojox.lang.d.ts",
+      "dojox.layout.d.ts",
+      "dojox.main.d.ts",
+      "dojox.math.d.ts",
+      "dojox.mdnd.d.ts",
+      "dojox.mobile.d.ts",
+      "dojox.mvc.d.ts",
+      "dojox.rails.d.ts",
+      "dojox.robot.d.ts",
+      "dojox.rpc.d.ts",
+      "dojox.secure.d.ts",
+      "dojox.sketch.d.ts",
+      "dojox.socket.d.ts",
+      "dojox.sql.d.ts",
+      "dojox.storage.d.ts",
+      "dojox.string.d.ts",
+      "dojox.testing.d.ts",
+      "dojox.timing.d.ts",
+      "dojox.treemap.d.ts",
+      "dojox.uuid.d.ts",
+      "dojox.validate.d.ts",
+      "dojox.widget.d.ts",
+      "dojox.xml.d.ts"
+    ]
+  },
+  {
+    "packageName": "domo",
+    "fileNames": [
+      "domo.d.ts"
+    ]
+  },
+  {
+    "packageName": "dompurify",
+    "fileNames": [
+      "dompurify.d.ts"
+    ]
+  },
+  {
+    "packageName": "domready",
+    "fileNames": [
+      "domready.d.ts"
+    ]
+  },
+  {
+    "packageName": "donna",
+    "fileNames": [
+      "donna.d.ts"
+    ]
+  },
+  {
+    "packageName": "dot",
+    "fileNames": [
+      "dot.d.ts"
+    ]
+  },
+  {
+    "packageName": "dot-case",
+    "fileNames": [
+      "dot-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "dotdotdot",
+    "fileNames": [
+      "dotdotdot.d.ts"
+    ]
+  },
+  {
+    "packageName": "doublearray",
+    "fileNames": [
+      "doublearray.d.ts"
+    ]
+  },
+  {
+    "packageName": "dragula",
+    "fileNames": [
+      "dragula.d.ts"
+    ]
+  },
+  {
+    "packageName": "drop",
+    "fileNames": [
+      "drop.d.ts"
+    ]
+  },
+  {
+    "packageName": "dropboxjs",
+    "fileNames": [
+      "dropboxjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "dropzone",
+    "fileNames": [
+      "dropzone.d.ts"
+    ]
+  },
+  {
+    "packageName": "dsv",
+    "fileNames": [
+      "dsv.d.ts"
+    ]
+  },
+  {
+    "packageName": "dts-bundle",
+    "fileNames": [
+      "dts-bundle.d.ts"
+    ]
+  },
+  {
+    "packageName": "durandal",
+    "fileNames": [
+      "durandal-1.x.d.ts",
+      "durandal.d.ts"
+    ]
+  },
+  {
+    "packageName": "dustjs-linkedin",
+    "fileNames": [
+      "dustjs-linkedin.d.ts"
+    ]
+  },
+  {
+    "packageName": "dw-bxslider-4",
+    "fileNames": [
+      "dw-bxslider-4.d.ts"
+    ]
+  },
+  {
+    "packageName": "dymo-label-framework",
+    "fileNames": [
+      "dymo-label-framework.d.ts"
+    ]
+  },
+  {
+    "packageName": "each",
+    "fileNames": [
+      "each.d.ts"
+    ]
+  },
+  {
+    "packageName": "easeljs",
+    "fileNames": [
+      "easeljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-api-request",
+    "fileNames": [
+      "easy-api-request.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-jsend",
+    "fileNames": [
+      "easy-jsend.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-session",
+    "fileNames": [
+      "easy-session.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-table",
+    "fileNames": [
+      "easy-table-0.2.0.d.ts",
+      "easy-table.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-x-headers",
+    "fileNames": [
+      "easy-x-headers.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-xapi",
+    "fileNames": [
+      "easy-xapi.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-xapi-supertest",
+    "fileNames": [
+      "easy-xapi-supertest.d.ts"
+    ]
+  },
+  {
+    "packageName": "easy-xapi-utils",
+    "fileNames": [
+      "easy-xapi-utils.d.ts"
+    ]
+  },
+  {
+    "packageName": "easystarjs",
+    "fileNames": [
+      "easystarjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "egg.js",
+    "fileNames": [
+      "egg.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "ejs",
+    "fileNames": [
+      "ejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "ejs-locals",
+    "fileNames": [
+      "ejs-locals.d.ts"
+    ]
+  },
+  {
+    "packageName": "electron-builder",
+    "fileNames": [
+      "electron-builder.d.ts"
+    ]
+  },
+  {
+    "packageName": "electron-packager",
+    "fileNames": [
+      "electron-packager.d.ts"
+    ]
+  },
+  {
+    "packageName": "element-resize-event",
+    "fileNames": [
+      "element-resize-event.d.ts"
+    ]
+  },
+  {
+    "packageName": "elm",
+    "fileNames": [
+      "elm.d.ts"
+    ]
+  },
+  {
+    "packageName": "email-addresses",
+    "fileNames": [
+      "email-addresses.d.ts"
+    ]
+  },
+  {
+    "packageName": "email-templates",
+    "fileNames": [
+      "email-templates.d.ts"
+    ]
+  },
+  {
+    "packageName": "email-validator",
+    "fileNames": [
+      "email-validator.d.ts"
+    ]
+  },
+  {
+    "packageName": "ember",
+    "fileNames": [
+      "ember.d.ts"
+    ]
+  },
+  {
+    "packageName": "emissary",
+    "fileNames": [
+      "emissary.d.ts"
+    ]
+  },
+  {
+    "packageName": "empower",
+    "fileNames": [
+      "empower.d.ts"
+    ]
+  },
+  {
+    "packageName": "emscripten",
+    "fileNames": [
+      "emscripten.d.ts"
+    ]
+  },
+  {
+    "packageName": "envify",
+    "fileNames": [
+      "envify.d.ts"
+    ]
+  },
+  {
+    "packageName": "epiceditor",
+    "fileNames": [
+      "epiceditor.d.ts"
+    ]
+  },
+  {
+    "packageName": "eq.js",
+    "fileNames": [
+      "eq.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "errorhandler",
+    "fileNames": [
+      "errorhandler.d.ts"
+    ]
+  },
+  {
+    "packageName": "es6-collections",
+    "fileNames": [
+      "es6-collections.d.ts"
+    ]
+  },
+  {
+    "packageName": "es6-promise",
+    "fileNames": [
+      "es6-promise.d.ts"
+    ]
+  },
+  {
+    "packageName": "es6-promises",
+    "fileNames": [
+      "es6-promises.d.ts"
+    ]
+  },
+  {
+    "packageName": "es6-shim",
+    "fileNames": [
+      "es6-shim.d.ts"
+    ]
+  },
+  {
+    "packageName": "escape-latex",
+    "fileNames": [
+      "escape-latex.d.ts"
+    ]
+  },
+  {
+    "packageName": "esprima",
+    "fileNames": [
+      "esprima.d.ts"
+    ]
+  },
+  {
+    "packageName": "estree",
+    "fileNames": [
+      "estree.d.ts",
+      "flow.d.ts"
+    ]
+  },
+  {
+    "packageName": "event-kit",
+    "fileNames": [
+      "event-kit.d.ts"
+    ]
+  },
+  {
+    "packageName": "event-loop-lag",
+    "fileNames": [
+      "event-loop-lag.d.ts"
+    ]
+  },
+  {
+    "packageName": "eventemitter2",
+    "fileNames": [
+      "eventemitter2.d.ts"
+    ]
+  },
+  {
+    "packageName": "eventemitter3",
+    "fileNames": [
+      "eventemitter3.d.ts"
+    ]
+  },
+  {
+    "packageName": "evernote",
+    "fileNames": [
+      "evernote.d.ts"
+    ]
+  },
+  {
+    "packageName": "exit",
+    "fileNames": [
+      "exit.d.ts"
+    ]
+  },
+  {
+    "packageName": "expect.js",
+    "fileNames": [
+      "expect.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "expectations",
+    "fileNames": [
+      "expectations.d.ts"
+    ]
+  },
+  {
+    "packageName": "express",
+    "fileNames": [
+      "express.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-brute",
+    "fileNames": [
+      "express-brute.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-brute-mongo",
+    "fileNames": [
+      "express-brute-mongo.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-debug",
+    "fileNames": [
+      "express-debug.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-handlebars",
+    "fileNames": [
+      "express-handlebars.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-jwt",
+    "fileNames": [
+      "express-jwt.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-less",
+    "fileNames": [
+      "express-less.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-myconnection",
+    "fileNames": [
+      "express-myconnection.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-partials",
+    "fileNames": [
+      "express-partials.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-route-fs",
+    "fileNames": [
+      "express-route-fs.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-session",
+    "fileNames": [
+      "express-session.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-unless",
+    "fileNames": [
+      "express-unless.d.ts"
+    ]
+  },
+  {
+    "packageName": "express-validator",
+    "fileNames": [
+      "express-validator.d.ts"
+    ]
+  },
+  {
+    "packageName": "extend",
+    "fileNames": [
+      "extend.d.ts"
+    ]
+  },
+  {
+    "packageName": "extjs",
+    "fileNames": [
+      "ExtJS.d.ts"
+    ]
+  },
+  {
+    "packageName": "eyes",
+    "fileNames": [
+      "eyes.d.ts"
+    ]
+  },
+  {
+    "packageName": "fabricjs",
+    "fileNames": [
+      "fabricjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "faker",
+    "fileNames": [
+      "faker.d.ts"
+    ]
+  },
+  {
+    "packageName": "famous",
+    "fileNames": [
+      "famous.d.ts"
+    ]
+  },
+  {
+    "packageName": "fancybox",
+    "fileNames": [
+      "fancybox.d.ts"
+    ]
+  },
+  {
+    "packageName": "farbtastic",
+    "fileNames": [
+      "farbtastic.d.ts"
+    ]
+  },
+  {
+    "packageName": "fast-stats",
+    "fileNames": [
+      "fast-stats.d.ts"
+    ]
+  },
+  {
+    "packageName": "fastclick",
+    "fileNames": [
+      "fastclick.d.ts"
+    ]
+  },
+  {
+    "packageName": "favico.js",
+    "fileNames": [
+      "favico.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "fbsdk",
+    "fileNames": [
+      "fbsdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "featherlight",
+    "fileNames": [
+      "featherlight.d.ts"
+    ]
+  },
+  {
+    "packageName": "fhir",
+    "fileNames": [
+      "fhir.d.ts"
+    ]
+  },
+  {
+    "packageName": "fibers",
+    "fileNames": [
+      "fibers.d.ts"
+    ]
+  },
+  {
+    "packageName": "file-url",
+    "fileNames": [
+      "file-url.d.ts"
+    ]
+  },
+  {
+    "packageName": "FileSaver",
+    "fileNames": [
+      "FileSaver.d.ts"
+    ]
+  },
+  {
+    "packageName": "filesystem",
+    "fileNames": [
+      "filesystem.d.ts"
+    ]
+  },
+  {
+    "packageName": "filewriter",
+    "fileNames": [
+      "filewriter.d.ts"
+    ]
+  },
+  {
+    "packageName": "finalhandler",
+    "fileNames": [
+      "finalhandler.d.ts"
+    ]
+  },
+  {
+    "packageName": "Finch",
+    "fileNames": [
+      "Finch.d.ts"
+    ]
+  },
+  {
+    "packageName": "findup-sync",
+    "fileNames": [
+      "findup-sync.d.ts"
+    ]
+  },
+  {
+    "packageName": "fingerprintjs",
+    "fileNames": [
+      "fingerprint.d.ts"
+    ]
+  },
+  {
+    "packageName": "firebase",
+    "fileNames": [
+      "firebase-simplelogin.d.ts",
+      "firebase.d.ts"
+    ]
+  },
+  {
+    "packageName": "firebase-client",
+    "fileNames": [
+      "firebase-client.d.ts"
+    ]
+  },
+  {
+    "packageName": "firefox",
+    "fileNames": [
+      "firefox.d.ts"
+    ]
+  },
+  {
+    "packageName": "first-mate",
+    "fileNames": [
+      "first-mate.d.ts"
+    ]
+  },
+  {
+    "packageName": "fixed-data-table",
+    "fileNames": [
+      "fixed-data-table-0.4.7.d.ts",
+      "fixed-data-table.d.ts"
+    ]
+  },
+  {
+    "packageName": "flake-idgen",
+    "fileNames": [
+      "flake-idgen.d.ts"
+    ]
+  },
+  {
+    "packageName": "flat",
+    "fileNames": [
+      "flat.d.ts"
+    ]
+  },
+  {
+    "packageName": "flexSlider",
+    "fileNames": [
+      "flexSlider.d.ts"
+    ]
+  },
+  {
+    "packageName": "flight",
+    "fileNames": [
+      "flight.d.ts"
+    ]
+  },
+  {
+    "packageName": "flipsnap",
+    "fileNames": [
+      "flipsnap.d.ts"
+    ]
+  },
+  {
+    "packageName": "flot",
+    "fileNames": [
+      "jquery.flot.d.ts"
+    ]
+  },
+  {
+    "packageName": "flowjs",
+    "fileNames": [
+      "flowjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "flux",
+    "fileNames": [
+      "flux.d.ts"
+    ]
+  },
+  {
+    "packageName": "flux-standard-action",
+    "fileNames": [
+      "flux-standard-action.d.ts"
+    ]
+  },
+  {
+    "packageName": "fluxxor",
+    "fileNames": [
+      "fluxxor.d.ts"
+    ]
+  },
+  {
+    "packageName": "fontoxml",
+    "fileNames": [
+      "fontoxml.d.ts"
+    ]
+  },
+  {
+    "packageName": "forge-di",
+    "fileNames": [
+      "forge-di.d.ts"
+    ]
+  },
+  {
+    "packageName": "form-data",
+    "fileNames": [
+      "form-data.d.ts"
+    ]
+  },
+  {
+    "packageName": "form-serializer",
+    "fileNames": [
+      "form-serializer.d.ts"
+    ]
+  },
+  {
+    "packageName": "formidable",
+    "fileNames": [
+      "formidable.d.ts"
+    ]
+  },
+  {
+    "packageName": "foundation",
+    "fileNames": [
+      "foundation.d.ts"
+    ]
+  },
+  {
+    "packageName": "foundation-sites",
+    "fileNames": [
+      "foundation.d.ts"
+    ]
+  },
+  {
+    "packageName": "fpsmeter",
+    "fileNames": [
+      "FPSMeter.d.ts"
+    ]
+  },
+  {
+    "packageName": "freedom",
+    "fileNames": [
+      "freedom-core-env.d.ts",
+      "freedom-module-env.d.ts",
+      "freedom.d.ts"
+    ]
+  },
+  {
+    "packageName": "from",
+    "fileNames": [
+      "from.d.ts"
+    ]
+  },
+  {
+    "packageName": "fs-ext",
+    "fileNames": [
+      "fs-ext.d.ts"
+    ]
+  },
+  {
+    "packageName": "fs-extra",
+    "fileNames": [
+      "fs-extra.d.ts"
+    ]
+  },
+  {
+    "packageName": "fs-finder",
+    "fileNames": [
+      "fs-finder.d.ts"
+    ]
+  },
+  {
+    "packageName": "fs-mock",
+    "fileNames": [
+      "fs-mock.d.ts"
+    ]
+  },
+  {
+    "packageName": "ftdomdelegate",
+    "fileNames": [
+      "ftdomdelegate.d.ts"
+    ]
+  },
+  {
+    "packageName": "ftp",
+    "fileNames": [
+      "ftp.d.ts"
+    ]
+  },
+  {
+    "packageName": "ftpd",
+    "fileNames": [
+      "ftpd.d.ts"
+    ]
+  },
+  {
+    "packageName": "fullCalendar",
+    "fileNames": [
+      "fullCalendar.d.ts"
+    ]
+  },
+  {
+    "packageName": "fuse",
+    "fileNames": [
+      "fuse.d.ts"
+    ]
+  },
+  {
+    "packageName": "gae.channel.api",
+    "fileNames": [
+      "gae.channel.api.d.ts"
+    ]
+  },
+  {
+    "packageName": "gamepad",
+    "fileNames": [
+      "gamepad.d.ts"
+    ]
+  },
+  {
+    "packageName": "gamequery",
+    "fileNames": [
+      "gamequery.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi",
+    "fileNames": [
+      "gapi.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi.pagespeedonline",
+    "fileNames": [
+      "gapi.pagespeedonline.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi.translate",
+    "fileNames": [
+      "gapi.translate.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi.urlshortener",
+    "fileNames": [
+      "gapi.urlshortener.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi.youtube",
+    "fileNames": [
+      "gapi.youtube.d.ts"
+    ]
+  },
+  {
+    "packageName": "gapi.youtubeAnalytics",
+    "fileNames": [
+      "gapi.youtubeAnalytics.d.ts"
+    ]
+  },
+  {
+    "packageName": "gently",
+    "fileNames": [
+      "gently.d.ts"
+    ]
+  },
+  {
+    "packageName": "geoip-lite",
+    "fileNames": [
+      "geoip-lite.d.ts"
+    ]
+  },
+  {
+    "packageName": "geojson",
+    "fileNames": [
+      "geojson.d.ts"
+    ]
+  },
+  {
+    "packageName": "geometry-dom",
+    "fileNames": [
+      "geometry-dom.d.ts"
+    ]
+  },
+  {
+    "packageName": "giraffe",
+    "fileNames": [
+      "giraffe.d.ts"
+    ]
+  },
+  {
+    "packageName": "git-config",
+    "fileNames": [
+      "git-config.d.ts"
+    ]
+  },
+  {
+    "packageName": "github-electron",
+    "fileNames": [
+      "electron-prebuilt.d.ts",
+      "github-electron.d.ts"
+    ]
+  },
+  {
+    "packageName": "gl-matrix",
+    "fileNames": [
+      "gl-matrix.d.ts"
+    ]
+  },
+  {
+    "packageName": "gldatepicker",
+    "fileNames": [
+      "gldatepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "glidejs",
+    "fileNames": [
+      "glidejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "glob",
+    "fileNames": [
+      "glob.d.ts"
+    ]
+  },
+  {
+    "packageName": "glob-expand",
+    "fileNames": [
+      "glob-expand.d.ts"
+    ]
+  },
+  {
+    "packageName": "glob-stream",
+    "fileNames": [
+      "glob-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "globalize",
+    "fileNames": [
+      "globalize.d.ts"
+    ]
+  },
+  {
+    "packageName": "gm",
+    "fileNames": [
+      "gm.d.ts"
+    ]
+  },
+  {
+    "packageName": "goJS",
+    "fileNames": [
+      "goJS.d.ts"
+    ]
+  },
+  {
+    "packageName": "google-apps-script",
+    "fileNames": [
+      "google-apps-script.base.d.ts",
+      "google-apps-script.cache.d.ts",
+      "google-apps-script.calendar.d.ts",
+      "google-apps-script.charts.d.ts",
+      "google-apps-script.contacts.d.ts",
+      "google-apps-script.content.d.ts",
+      "google-apps-script.document.d.ts",
+      "google-apps-script.drive.d.ts",
+      "google-apps-script.forms.d.ts",
+      "google-apps-script.gmail.d.ts",
+      "google-apps-script.groups.d.ts",
+      "google-apps-script.html.d.ts",
+      "google-apps-script.jdbc.d.ts",
+      "google-apps-script.language.d.ts",
+      "google-apps-script.lock.d.ts",
+      "google-apps-script.mail.d.ts",
+      "google-apps-script.maps.d.ts",
+      "google-apps-script.optimization.d.ts",
+      "google-apps-script.properties.d.ts",
+      "google-apps-script.script.d.ts",
+      "google-apps-script.sites.d.ts",
+      "google-apps-script.spreadsheet.d.ts",
+      "google-apps-script.types.d.ts",
+      "google-apps-script.ui.d.ts",
+      "google-apps-script.url-fetch.d.ts",
+      "google-apps-script.utilities.d.ts",
+      "google-apps-script.xml-service.d.ts"
+    ]
+  },
+  {
+    "packageName": "google-drive-realtime-api",
+    "fileNames": [
+      "google-drive-realtime-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "google-maps",
+    "fileNames": [
+      "google-maps.d.ts"
+    ]
+  },
+  {
+    "packageName": "google.analytics",
+    "fileNames": [
+      "ga.d.ts"
+    ]
+  },
+  {
+    "packageName": "google.feeds",
+    "fileNames": [
+      "google.feed.api.d.ts"
+    ]
+  },
+  {
+    "packageName": "google.geolocation",
+    "fileNames": [
+      "google.geolocation.d.ts"
+    ]
+  },
+  {
+    "packageName": "google.picker",
+    "fileNames": [
+      "google.picker.d.ts"
+    ]
+  },
+  {
+    "packageName": "google.visualization",
+    "fileNames": [
+      "google.visualization.d.ts"
+    ]
+  },
+  {
+    "packageName": "googlemaps",
+    "fileNames": [
+      "google.maps.d.ts"
+    ]
+  },
+  {
+    "packageName": "googlemaps.infobubble",
+    "fileNames": [
+      "google.maps.infobubble.d.ts"
+    ]
+  },
+  {
+    "packageName": "graceful-fs",
+    "fileNames": [
+      "graceful-fs.d.ts"
+    ]
+  },
+  {
+    "packageName": "graham_scan",
+    "fileNames": [
+      "graham_scan.d.ts"
+    ]
+  },
+  {
+    "packageName": "graphviz",
+    "fileNames": [
+      "graphviz.d.ts"
+    ]
+  },
+  {
+    "packageName": "greasemonkey",
+    "fileNames": [
+      "greasemonkey.d.ts"
+    ]
+  },
+  {
+    "packageName": "grecaptcha",
+    "fileNames": [
+      "grecaptcha.d.ts"
+    ]
+  },
+  {
+    "packageName": "greensock",
+    "fileNames": [
+      "greensock.d.ts"
+    ]
+  },
+  {
+    "packageName": "gridfs-stream",
+    "fileNames": [
+      "gridfs-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "gridstack",
+    "fileNames": [
+      "gridstack.d.ts"
+    ]
+  },
+  {
+    "packageName": "gruntjs",
+    "fileNames": [
+      "gruntjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "gsap",
+    "fileNames": [
+      "Core.d.ts",
+      "Ease.d.ts",
+      "TweenLite.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp",
+    "fileNames": [
+      "gulp.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-autoprefixer",
+    "fileNames": [
+      "gulp-autoprefixer.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-babel",
+    "fileNames": [
+      "gulp-babel.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-cached",
+    "fileNames": [
+      "gulp-cached.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-changed",
+    "fileNames": [
+      "gulp-changed.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-cheerio",
+    "fileNames": [
+      "gulp-cheerio.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-coffeeify",
+    "fileNames": [
+      "gulp-coffeeify.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-coffeelint",
+    "fileNames": [
+      "gulp-coffeelint.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-concat",
+    "fileNames": [
+      "gulp-concat.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-csso",
+    "fileNames": [
+      "gulp-csso.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-debug",
+    "fileNames": [
+      "gulp-debug.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-dtsm",
+    "fileNames": [
+      "gulp-dtsm.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-espower",
+    "fileNames": [
+      "gulp-espower.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-flatten",
+    "fileNames": [
+      "gulp-flatten.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-gh-pages",
+    "fileNames": [
+      "gulp-gh-pages.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-gzip",
+    "fileNames": [
+      "gulp-gzip.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-help",
+    "fileNames": [
+      "gulp-help.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-if",
+    "fileNames": [
+      "gulp-if.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-inject",
+    "fileNames": [
+      "gulp-inject.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-istanbul",
+    "fileNames": [
+      "gulp-istanbul-0.8.1.d.ts",
+      "gulp-istanbul.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-jasmine-browser",
+    "fileNames": [
+      "gulp-jasmine-browser.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-less",
+    "fileNames": [
+      "gulp-less.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-load-plugins",
+    "fileNames": [
+      "gulp-load-plugins.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-minify-css",
+    "fileNames": [
+      "gulp-minify-css.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-minify-html",
+    "fileNames": [
+      "gulp-minify-html.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-mocha",
+    "fileNames": [
+      "gulp-mocha.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-newer",
+    "fileNames": [
+      "gulp-newer.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-ng-annotate",
+    "fileNames": [
+      "gulp-ng-annotate.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-nodemon",
+    "fileNames": [
+      "gulp-nodemon.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-plumber",
+    "fileNames": [
+      "gulp-plumber.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-protractor",
+    "fileNames": [
+      "gulp-protractor.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-remember",
+    "fileNames": [
+      "gulp-remember.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-rename",
+    "fileNames": [
+      "gulp-rename.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-replace",
+    "fileNames": [
+      "gulp-replace.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-rev",
+    "fileNames": [
+      "gulp-rev.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-rev-replace",
+    "fileNames": [
+      "gulp-rev-replace.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-ruby-sass",
+    "fileNames": [
+      "gulp-ruby-sass.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-sass",
+    "fileNames": [
+      "gulp-sass.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-shell",
+    "fileNames": [
+      "gulp-shell.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-size",
+    "fileNames": [
+      "gulp-size.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-sort",
+    "fileNames": [
+      "gulp-sort.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-sourcemaps",
+    "fileNames": [
+      "gulp-sourcemaps.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-svg-sprite",
+    "fileNames": [
+      "gulp-svg-sprite.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-task-listing",
+    "fileNames": [
+      "gulp-task-listing.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-tsd",
+    "fileNames": [
+      "gulp-tsd.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-tslint",
+    "fileNames": [
+      "gulp-tslint.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-typedoc",
+    "fileNames": [
+      "gulp-typedoc.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-typescript",
+    "fileNames": [
+      "gulp-typescript.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-uglify",
+    "fileNames": [
+      "gulp-uglify.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-useref",
+    "fileNames": [
+      "gulp-useref.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-util",
+    "fileNames": [
+      "gulp-util.d.ts"
+    ]
+  },
+  {
+    "packageName": "gulp-watch",
+    "fileNames": [
+      "gulp-watch.d.ts"
+    ]
+  },
+  {
+    "packageName": "hammerjs",
+    "fileNames": [
+      "hammerjs-1.1.3.d.ts",
+      "hammerjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "handlebars",
+    "fileNames": [
+      "handlebars-1.0.0.d.ts",
+      "handlebars.d.ts"
+    ]
+  },
+  {
+    "packageName": "hapi",
+    "fileNames": [
+      "hapi-8.2.0.d.ts",
+      "hapi.d.ts"
+    ]
+  },
+  {
+    "packageName": "hasher",
+    "fileNames": [
+      "hasher.d.ts"
+    ]
+  },
+  {
+    "packageName": "hashids",
+    "fileNames": [
+      "hashids.d.ts"
+    ]
+  },
+  {
+    "packageName": "hashmap",
+    "fileNames": [
+      "hashmap-1.1.d.ts",
+      "hashmap.d.ts"
+    ]
+  },
+  {
+    "packageName": "hashset",
+    "fileNames": [
+      "hashset.d.ts"
+    ]
+  },
+  {
+    "packageName": "hashtable",
+    "fileNames": [
+      "hashtable.d.ts"
+    ]
+  },
+  {
+    "packageName": "he",
+    "fileNames": [
+      "he.d.ts"
+    ]
+  },
+  {
+    "packageName": "Headroom",
+    "fileNames": [
+      "headroom.d.ts"
+    ]
+  },
+  {
+    "packageName": "heap",
+    "fileNames": [
+      "heap.d.ts"
+    ]
+  },
+  {
+    "packageName": "heatmap.js",
+    "fileNames": [
+      "heatmap.d.ts"
+    ]
+  },
+  {
+    "packageName": "hellojs",
+    "fileNames": [
+      "hellojs.d.ts"
+    ]
+  },
+  {
+    "packageName": "helmet",
+    "fileNames": [
+      "helmet.d.ts"
+    ]
+  },
+  {
+    "packageName": "highcharts",
+    "fileNames": [
+      "highcharts.d.ts",
+      "highstock.d.ts"
+    ]
+  },
+  {
+    "packageName": "highcharts-ng",
+    "fileNames": [
+      "highcharts-ng.d.ts"
+    ]
+  },
+  {
+    "packageName": "highland",
+    "fileNames": [
+      "highland.d.ts"
+    ]
+  },
+  {
+    "packageName": "highlightjs",
+    "fileNames": [
+      "highlightjs-7.5.0.d.ts",
+      "highlightjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "history",
+    "fileNames": [
+      "history.d.ts"
+    ]
+  },
+  {
+    "packageName": "hooker",
+    "fileNames": [
+      "hooker.d.ts"
+    ]
+  },
+  {
+    "packageName": "hopscotch",
+    "fileNames": [
+      "hopscotch.d.ts"
+    ]
+  },
+  {
+    "packageName": "howlerjs",
+    "fileNames": [
+      "howler.d.ts"
+    ]
+  },
+  {
+    "packageName": "html-to-text",
+    "fileNames": [
+      "html-to-text.d.ts"
+    ]
+  },
+  {
+    "packageName": "html2canvas",
+    "fileNames": [
+      "html2canvas.d.ts"
+    ]
+  },
+  {
+    "packageName": "htmlparser2",
+    "fileNames": [
+      "htmlparser2.d.ts"
+    ]
+  },
+  {
+    "packageName": "htmltojsx",
+    "fileNames": [
+      "htmltojsx.d.ts"
+    ]
+  },
+  {
+    "packageName": "http-errors",
+    "fileNames": [
+      "http-errors.d.ts"
+    ]
+  },
+  {
+    "packageName": "http-status",
+    "fileNames": [
+      "http-status.d.ts"
+    ]
+  },
+  {
+    "packageName": "http-string-parser",
+    "fileNames": [
+      "http-string-parser.d.ts"
+    ]
+  },
+  {
+    "packageName": "httperr",
+    "fileNames": [
+      "httperr.d.ts"
+    ]
+  },
+  {
+    "packageName": "humane",
+    "fileNames": [
+      "humane.d.ts"
+    ]
+  },
+  {
+    "packageName": "hypertext-application-language",
+    "fileNames": [
+      "hypertext-application-language.d.ts"
+    ]
+  },
+  {
+    "packageName": "hystrixjs",
+    "fileNames": [
+      "hystrixjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "i18n-node",
+    "fileNames": [
+      "i18n-node.d.ts"
+    ]
+  },
+  {
+    "packageName": "i18next",
+    "fileNames": [
+      "i18next.d.ts"
+    ]
+  },
+  {
+    "packageName": "iban",
+    "fileNames": [
+      "iban.d.ts"
+    ]
+  },
+  {
+    "packageName": "icheck",
+    "fileNames": [
+      "icheck.d.ts"
+    ]
+  },
+  {
+    "packageName": "imagemagick",
+    "fileNames": [
+      "imagemagick.d.ts"
+    ]
+  },
+  {
+    "packageName": "imagemagick-native",
+    "fileNames": [
+      "imagemagick-native.d.ts"
+    ]
+  },
+  {
+    "packageName": "imagesloaded",
+    "fileNames": [
+      "imagesloaded.d.ts"
+    ]
+  },
+  {
+    "packageName": "imap",
+    "fileNames": [
+      "imap.d.ts"
+    ]
+  },
+  {
+    "packageName": "imgur-rest-api",
+    "fileNames": [
+      "imgur-rest-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "impress",
+    "fileNames": [
+      "impress.d.ts"
+    ]
+  },
+  {
+    "packageName": "incremental-dom",
+    "fileNames": [
+      "incremental-dom.d.ts"
+    ]
+  },
+  {
+    "packageName": "inflection",
+    "fileNames": [
+      "inflection.d.ts"
+    ]
+  },
+  {
+    "packageName": "inherits",
+    "fileNames": [
+      "inherits.d.ts"
+    ]
+  },
+  {
+    "packageName": "ini",
+    "fileNames": [
+      "ini.d.ts"
+    ]
+  },
+  {
+    "packageName": "iniparser",
+    "fileNames": [
+      "iniparser.d.ts"
+    ]
+  },
+  {
+    "packageName": "inline-css",
+    "fileNames": [
+      "inline-css.d.ts"
+    ]
+  },
+  {
+    "packageName": "inquirer",
+    "fileNames": [
+      "inquirer.d.ts"
+    ]
+  },
+  {
+    "packageName": "insight",
+    "fileNames": [
+      "insight.d.ts"
+    ]
+  },
+  {
+    "packageName": "interactjs",
+    "fileNames": [
+      "interact.d.ts"
+    ]
+  },
+  {
+    "packageName": "intercomjs",
+    "fileNames": [
+      "intercom.d.ts"
+    ]
+  },
+  {
+    "packageName": "intro.js",
+    "fileNames": [
+      "intro.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "inversify",
+    "fileNames": [
+      "inversify.d.ts"
+    ]
+  },
+  {
+    "packageName": "ion.rangeSlider",
+    "fileNames": [
+      "ion.rangeSlider-1.9.1.d.ts",
+      "ion.rangeSlider.d.ts"
+    ]
+  },
+  {
+    "packageName": "ionic",
+    "fileNames": [
+      "ionic.d.ts"
+    ]
+  },
+  {
+    "packageName": "ip",
+    "fileNames": [
+      "ip.d.ts"
+    ]
+  },
+  {
+    "packageName": "irc",
+    "fileNames": [
+      "irc.d.ts"
+    ]
+  },
+  {
+    "packageName": "is_js",
+    "fileNames": [
+      "is_js.d.ts"
+    ]
+  },
+  {
+    "packageName": "is-lower-case",
+    "fileNames": [
+      "is-lower-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "is-upper-case",
+    "fileNames": [
+      "is-upper-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "iscroll",
+    "fileNames": [
+      "iscroll-5-lite.d.ts",
+      "iscroll-5.d.ts",
+      "iscroll-lite.d.ts",
+      "iscroll.d.ts"
+    ]
+  },
+  {
+    "packageName": "iso8601-localizer",
+    "fileNames": [
+      "iso8601-localizer.d.ts"
+    ]
+  },
+  {
+    "packageName": "ix.js",
+    "fileNames": [
+      "ix.d.ts",
+      "l2o.d.ts"
+    ]
+  },
+  {
+    "packageName": "jade",
+    "fileNames": [
+      "jade.d.ts"
+    ]
+  },
+  {
+    "packageName": "jake",
+    "fileNames": [
+      "jake.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine",
+    "fileNames": [
+      "jasmine.d.ts",
+      "legacy/jasmine-1.3.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-ajax",
+    "fileNames": [
+      "jasmine-ajax.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-data_driven_tests",
+    "fileNames": [
+      "jasmine-data_driven_tests.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-es6-promise-matchers",
+    "fileNames": [
+      "jasmine-es6-promise-matchers.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-expect",
+    "fileNames": [
+      "jasmine-expect.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-fixture",
+    "fileNames": [
+      "jasmine-fixture.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-jquery",
+    "fileNames": [
+      "jasmine-jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-matchers",
+    "fileNames": [
+      "jasmine-matchers.d.ts"
+    ]
+  },
+  {
+    "packageName": "jasmine-promise-matchers",
+    "fileNames": [
+      "jasmine-promise-matchers.d.ts"
+    ]
+  },
+  {
+    "packageName": "java",
+    "fileNames": [
+      "java.d.ts"
+    ]
+  },
+  {
+    "packageName": "java-applet",
+    "fileNames": [
+      "java-applet.d.ts"
+    ]
+  },
+  {
+    "packageName": "jbinary",
+    "fileNames": [
+      "jbinary.d.ts"
+    ]
+  },
+  {
+    "packageName": "jdataview",
+    "fileNames": [
+      "jdataview.d.ts"
+    ]
+  },
+  {
+    "packageName": "jee-jsf",
+    "fileNames": [
+      "jsf.d.ts"
+    ]
+  },
+  {
+    "packageName": "jest",
+    "fileNames": [
+      "jest.d.ts"
+    ]
+  },
+  {
+    "packageName": "jjv",
+    "fileNames": [
+      "jjv.d.ts"
+    ]
+  },
+  {
+    "packageName": "jjve",
+    "fileNames": [
+      "jjve.d.ts"
+    ]
+  },
+  {
+    "packageName": "joData",
+    "fileNames": [
+      "joData.d.ts"
+    ]
+  },
+  {
+    "packageName": "johnny-five",
+    "fileNames": [
+      "johnny-five.d.ts"
+    ]
+  },
+  {
+    "packageName": "joi",
+    "fileNames": [
+      "joi.d.ts"
+    ]
+  },
+  {
+    "packageName": "jointjs",
+    "fileNames": [
+      "jointjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "jqgrid",
+    "fileNames": [
+      "jqgrid.d.ts"
+    ]
+  },
+  {
+    "packageName": "jqrangeslider",
+    "fileNames": [
+      "jqrangeslider.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery",
+    "fileNames": [
+      "jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-ajax-chain",
+    "fileNames": [
+      "jquery-ajax-chain.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-cropbox",
+    "fileNames": [
+      "jquery-cropbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-fullscreen",
+    "fileNames": [
+      "jquery-fullscreen.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-galleria",
+    "fileNames": [
+      "jquery-galleria.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-handsontable",
+    "fileNames": [
+      "jquery-handsontable.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-jsonrpcclient",
+    "fileNames": [
+      "jquery-jsonrpcclient.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-knob",
+    "fileNames": [
+      "jquery-knob.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-sortable",
+    "fileNames": [
+      "jquery-sortable.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-timeentry",
+    "fileNames": [
+      "jquery-timeentry.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-urlparam",
+    "fileNames": [
+      "jquery-urlparam.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery-validation-unobtrusive",
+    "fileNames": [
+      "jquery-validation-unobtrusive.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.address",
+    "fileNames": [
+      "jquery.address.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.ajaxfile",
+    "fileNames": [
+      "jquery.ajaxFile.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.are-you-sure",
+    "fileNames": [
+      "jquery.are-you-sure.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.autosize",
+    "fileNames": [
+      "jquery.autosize.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.base64",
+    "fileNames": [
+      "jquery.base64.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.bbq",
+    "fileNames": [
+      "jquery.bbq.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.blockUI",
+    "fileNames": [
+      "jquery.blockUI.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.bootstrap.wizard",
+    "fileNames": [
+      "jquery.bootstrap.wizard.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.cleditor",
+    "fileNames": [
+      "jquery.cleditor.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.clientSideLogging",
+    "fileNames": [
+      "jquery.clientSideLogging.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.color",
+    "fileNames": [
+      "jquery.color.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.colorbox",
+    "fileNames": [
+      "jquery.colorbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.colorpicker",
+    "fileNames": [
+      "jquery.colorpicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.contextMenu",
+    "fileNames": [
+      "jquery.contextMenu.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.cookie",
+    "fileNames": [
+      "jquery.cookie.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.customSelect",
+    "fileNames": [
+      "jquery.customSelect.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.cycle",
+    "fileNames": [
+      "jquery.cycle.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.cycle2",
+    "fileNames": [
+      "jquery.cycle2.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.dataTables",
+    "fileNames": [
+      "jquery.dataTables-1.9.4.d.ts",
+      "jquery.dataTables.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.dropotron",
+    "fileNames": [
+      "jquery.dropotron.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.dynatree",
+    "fileNames": [
+      "jquery.dynatree.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.elang",
+    "fileNames": [
+      "jquery.elang.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.fancytree",
+    "fileNames": [
+      "jquery.fancytree.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.fileupload",
+    "fileNames": [
+      "jquery.fileupload.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.finger",
+    "fileNames": [
+      "jquery.finger.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.form",
+    "fileNames": [
+      "jquery.form.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.fullscreen",
+    "fileNames": [
+      "jquery.fullscreen.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.gridster",
+    "fileNames": [
+      "gridster.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.highlight-bartaz",
+    "fileNames": [
+      "jquery.highlight-bartaz.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.jnotify",
+    "fileNames": [
+      "jquery.jnotify.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.joyride",
+    "fileNames": [
+      "jquery.joyride.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.jsignature",
+    "fileNames": [
+      "jquery.jsignature.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.leanModal",
+    "fileNames": [
+      "jquery.leanModal.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.livestampjs",
+    "fileNames": [
+      "jquery.livestampjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.menuaim",
+    "fileNames": [
+      "jquery.menuaim.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.notifyBar",
+    "fileNames": [
+      "jquery.notifyBar.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.noty",
+    "fileNames": [
+      "jquery.noty.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.payment",
+    "fileNames": [
+      "jquery.payment.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.pjax",
+    "fileNames": [
+      "jquery.pjax.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.pjax.falsandtru",
+    "fileNames": [
+      "jquery.pjax.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.placeholder",
+    "fileNames": [
+      "jquery.placeholder.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.pnotify",
+    "fileNames": [
+      "jquery.pnotify.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.postMessage",
+    "fileNames": [
+      "jquery.postMessage.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.prettyphoto",
+    "fileNames": [
+      "jquery.prettyphoto.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.qrcode",
+    "fileNames": [
+      "jquery.qrcode.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.rowGrid",
+    "fileNames": [
+      "jquery.rowGrid.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.scrollTo",
+    "fileNames": [
+      "jquery.scrollTo.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.simplemodal",
+    "fileNames": [
+      "jquery.simplemodal.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.simplePagination",
+    "fileNames": [
+      "jquery.simplePagination.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.simulate",
+    "fileNames": [
+      "jquery.simulate.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.slimScroll",
+    "fileNames": [
+      "jquery.slimScroll.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.soap",
+    "fileNames": [
+      "jquery.soap.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.sortElements",
+    "fileNames": [
+      "jquery.sortElement.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.superLink",
+    "fileNames": [
+      "jquery.superLink.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tagsmanager",
+    "fileNames": [
+      "jquery.tagsmanager.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tile",
+    "fileNames": [
+      "jquery.tile.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.timeago",
+    "fileNames": [
+      "jquery.timeago.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.timepicker",
+    "fileNames": [
+      "jquery.timepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.timer",
+    "fileNames": [
+      "jquery.timer.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tinycarousel",
+    "fileNames": [
+      "jquery.tinycarousel.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tinyscrollbar",
+    "fileNames": [
+      "jquery.tinyscrollbar.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tipsy",
+    "fileNames": [
+      "jquery.tipsy.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.tooltipster",
+    "fileNames": [
+      "jquery.tooltipster.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.total-storage",
+    "fileNames": [
+      "jquery.total-storage.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.transit",
+    "fileNames": [
+      "jquery.transit.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.ui.datetimepicker",
+    "fileNames": [
+      "jquery.ui.datetimepicker.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.ui.layout",
+    "fileNames": [
+      "jquery.ui.layout.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.uniform",
+    "fileNames": [
+      "jquery.uniform.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.validation",
+    "fileNames": [
+      "jquery.validation.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.watermark",
+    "fileNames": [
+      "jquery.watermark.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquery.window",
+    "fileNames": [
+      "jquery.window.d.ts"
+    ]
+  },
+  {
+    "packageName": "jquerymobile",
+    "fileNames": [
+      "jquerymobile.d.ts"
+    ]
+  },
+  {
+    "packageName": "jqueryui",
+    "fileNames": [
+      "jqueryui.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-beautify",
+    "fileNames": [
+      "js-beautify.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-combinatorics",
+    "fileNames": [
+      "js-combinatorics-global.d.ts",
+      "js-combinatorics.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-cookie",
+    "fileNames": [
+      "js-cookie.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-data",
+    "fileNames": [
+      "js-data.d.ts",
+      "legacy/js-data-1.5.4.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-data-angular",
+    "fileNames": [
+      "js-data-angular.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-data-http",
+    "fileNames": [
+      "js-data-http.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-fixtures",
+    "fileNames": [
+      "fixtures.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-git",
+    "fileNames": [
+      "js-git.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-md5",
+    "fileNames": [
+      "md5.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-signals",
+    "fileNames": [
+      "js-signals.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-url",
+    "fileNames": [
+      "js-url.d.ts"
+    ]
+  },
+  {
+    "packageName": "js-yaml",
+    "fileNames": [
+      "js-yaml.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsbn",
+    "fileNames": [
+      "jsbn.d.ts"
+    ]
+  },
+  {
+    "packageName": "jscrollpane",
+    "fileNames": [
+      "jscrollpane.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsdeferred",
+    "fileNames": [
+      "jsdeferred.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsdom",
+    "fileNames": [
+      "jsdom.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsesc",
+    "fileNames": [
+      "jsesc.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsfl",
+    "fileNames": [
+      "jsfl.d.ts",
+      "xJSFL.d.ts"
+    ]
+  },
+  {
+    "packageName": "jshamcrest",
+    "fileNames": [
+      "jshamcrest.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsnlog",
+    "fileNames": [
+      "jsnlog.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsnox",
+    "fileNames": [
+      "jsnox.d.ts"
+    ]
+  },
+  {
+    "packageName": "json-patch",
+    "fileNames": [
+      "json-patch.d.ts"
+    ]
+  },
+  {
+    "packageName": "json-pointer",
+    "fileNames": [
+      "json-pointer.d.ts"
+    ]
+  },
+  {
+    "packageName": "json-stable-stringify",
+    "fileNames": [
+      "json-stable-stringify.d.ts"
+    ]
+  },
+  {
+    "packageName": "json5",
+    "fileNames": [
+      "json5.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsoneditoronline",
+    "fileNames": [
+      "jsoneditoronline.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsonpath",
+    "fileNames": [
+      "jsonpath.d.ts"
+    ]
+  },
+  {
+    "packageName": "JSONStream",
+    "fileNames": [
+      "JSONStream.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsonwebtoken",
+    "fileNames": [
+      "jsonwebtoken.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsplumb",
+    "fileNames": [
+      "jquery.jsPlumb.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsrender",
+    "fileNames": [
+      "jsrender.d.ts"
+    ]
+  },
+  {
+    "packageName": "jssha",
+    "fileNames": [
+      "jssha-1.6.0.d.ts",
+      "jssha.d.ts"
+    ]
+  },
+  {
+    "packageName": "jstorage",
+    "fileNames": [
+      "jstorage.d.ts"
+    ]
+  },
+  {
+    "packageName": "jstree",
+    "fileNames": [
+      "jstree.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsts",
+    "fileNames": [
+      "jsts.d.ts"
+    ]
+  },
+  {
+    "packageName": "jsuri",
+    "fileNames": [
+      "jsuri.d.ts"
+    ]
+  },
+  {
+    "packageName": "jszip",
+    "fileNames": [
+      "jszip.d.ts"
+    ]
+  },
+  {
+    "packageName": "jug",
+    "fileNames": [
+      "jug.d.ts"
+    ]
+  },
+  {
+    "packageName": "jwplayer",
+    "fileNames": [
+      "jwplayer.d.ts"
+    ]
+  },
+  {
+    "packageName": "jwt-decode",
+    "fileNames": [
+      "jwt-decode.d.ts"
+    ]
+  },
+  {
+    "packageName": "jwt-simple",
+    "fileNames": [
+      "jwt-simple.d.ts"
+    ]
+  },
+  {
+    "packageName": "kafka-node",
+    "fileNames": [
+      "kafka-node.d.ts"
+    ]
+  },
+  {
+    "packageName": "karma",
+    "fileNames": [
+      "karma-0.12.d.ts",
+      "karma.d.ts"
+    ]
+  },
+  {
+    "packageName": "karma-jasmine",
+    "fileNames": [
+      "karma-jasmine.d.ts"
+    ]
+  },
+  {
+    "packageName": "katex",
+    "fileNames": [
+      "katex.d.ts"
+    ]
+  },
+  {
+    "packageName": "kefir",
+    "fileNames": [
+      "kefir.d.ts"
+    ]
+  },
+  {
+    "packageName": "kendo-ui",
+    "fileNames": [
+      "kendo-ui.d.ts"
+    ]
+  },
+  {
+    "packageName": "keyboardjs",
+    "fileNames": [
+      "keyboardjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "keymaster",
+    "fileNames": [
+      "keymaster.d.ts"
+    ]
+  },
+  {
+    "packageName": "keypress",
+    "fileNames": [
+      "keypress.d.ts"
+    ]
+  },
+  {
+    "packageName": "keytar",
+    "fileNames": [
+      "keytar.d.ts"
+    ]
+  },
+  {
+    "packageName": "kii-cloud-sdk",
+    "fileNames": [
+      "kii-cloud-sdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "kineticjs",
+    "fileNames": [
+      "kineticjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "knex",
+    "fileNames": [
+      "knex.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockback",
+    "fileNames": [
+      "knockback.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout",
+    "fileNames": [
+      "knockout.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout-paging",
+    "fileNames": [
+      "knockout-paging.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout-pre-rendered",
+    "fileNames": [
+      "knockout-pre-rendered.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout-secure-binding",
+    "fileNames": [
+      "knockout-secure-binding.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout-transformations",
+    "fileNames": [
+      "knockout-transformations.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.amd.helpers",
+    "fileNames": [
+      "knockout-amd-helpers.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.deferred.updates",
+    "fileNames": [
+      "knockout.deferred.updates.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.editables",
+    "fileNames": [
+      "ko.editables.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.es5",
+    "fileNames": [
+      "knockout.es5.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.kogrid",
+    "fileNames": [
+      "ko-grid.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.mapper",
+    "fileNames": [
+      "knockout.mapper.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.mapping",
+    "fileNames": [
+      "knockout.mapping.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.postbox",
+    "fileNames": [
+      "knockout-postbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.projections",
+    "fileNames": [
+      "knockout.projections.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.punches",
+    "fileNames": [
+      "knockout.punches.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.rx",
+    "fileNames": [
+      "knockout.rx.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.validation",
+    "fileNames": [
+      "knockout.validation.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockout.viewmodel",
+    "fileNames": [
+      "knockout.viewmodel.d.ts"
+    ]
+  },
+  {
+    "packageName": "knockstrap",
+    "fileNames": [
+      "knockstrap.d.ts"
+    ]
+  },
+  {
+    "packageName": "ko.plus",
+    "fileNames": [
+      "ko.plus.d.ts"
+    ]
+  },
+  {
+    "packageName": "kolite",
+    "fileNames": [
+      "kolite.d.ts"
+    ]
+  },
+  {
+    "packageName": "kue",
+    "fileNames": [
+      "kue.d.ts"
+    ]
+  },
+  {
+    "packageName": "kuromoji",
+    "fileNames": [
+      "kuromoji.d.ts"
+    ]
+  },
+  {
+    "packageName": "ladda",
+    "fileNames": [
+      "ladda.d.ts"
+    ]
+  },
+  {
+    "packageName": "later",
+    "fileNames": [
+      "later.d.ts"
+    ]
+  },
+  {
+    "packageName": "lazy.js",
+    "fileNames": [
+      "lazy.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "lazypipe",
+    "fileNames": [
+      "lazypipe.d.ts"
+    ]
+  },
+  {
+    "packageName": "leaflet",
+    "fileNames": [
+      "leaflet.d.ts"
+    ]
+  },
+  {
+    "packageName": "leaflet-editable",
+    "fileNames": [
+      "leaflet-editable.d.ts"
+    ]
+  },
+  {
+    "packageName": "leaflet-label",
+    "fileNames": [
+      "leaflet-label.d.ts"
+    ]
+  },
+  {
+    "packageName": "leapmotionTS",
+    "fileNames": [
+      "LeapMotionTS.d.ts"
+    ]
+  },
+  {
+    "packageName": "less",
+    "fileNames": [
+      "less.d.ts"
+    ]
+  },
+  {
+    "packageName": "less-middleware",
+    "fileNames": [
+      "less-middleware.d.ts"
+    ]
+  },
+  {
+    "packageName": "lestate",
+    "fileNames": [
+      "lestate.d.ts"
+    ]
+  },
+  {
+    "packageName": "level-sublevel",
+    "fileNames": [
+      "level-sublevel.d.ts"
+    ]
+  },
+  {
+    "packageName": "levelup",
+    "fileNames": [
+      "levelup.d.ts"
+    ]
+  },
+  {
+    "packageName": "libxmljs",
+    "fileNames": [
+      "libxmljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "line-reader",
+    "fileNames": [
+      "line-reader.d.ts"
+    ]
+  },
+  {
+    "packageName": "linq",
+    "fileNames": [
+      "linq.3.0.3-Beta4.d.ts",
+      "linq.d.ts",
+      "linq.jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "linqsharp",
+    "fileNames": [
+      "linqsharp.d.ts"
+    ]
+  },
+  {
+    "packageName": "lobibox",
+    "fileNames": [
+      "lobibox.d.ts"
+    ]
+  },
+  {
+    "packageName": "localForage",
+    "fileNames": [
+      "localForage.d.ts"
+    ]
+  },
+  {
+    "packageName": "lockfile",
+    "fileNames": [
+      "lockfile.d.ts"
+    ]
+  },
+  {
+    "packageName": "lodash",
+    "fileNames": [
+      "lodash.d.ts"
+    ]
+  },
+  {
+    "packageName": "lodash-decorators",
+    "fileNames": [
+      "lodash-decorators.d.ts"
+    ]
+  },
+  {
+    "packageName": "log4javascript",
+    "fileNames": [
+      "log4javascript.d.ts"
+    ]
+  },
+  {
+    "packageName": "log4js",
+    "fileNames": [
+      "log4js.d.ts"
+    ]
+  },
+  {
+    "packageName": "logg",
+    "fileNames": [
+      "logg.d.ts"
+    ]
+  },
+  {
+    "packageName": "loggly",
+    "fileNames": [
+      "loggly.d.ts"
+    ]
+  },
+  {
+    "packageName": "loglevel",
+    "fileNames": [
+      "loglevel.d.ts"
+    ]
+  },
+  {
+    "packageName": "logrotate-stream",
+    "fileNames": [
+      "logrotate-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "lokijs",
+    "fileNames": [
+      "lokijs.d.ts"
+    ]
+  },
+  {
+    "packageName": "lolex",
+    "fileNames": [
+      "lolex.d.ts"
+    ]
+  },
+  {
+    "packageName": "long",
+    "fileNames": [
+      "long.d.ts"
+    ]
+  },
+  {
+    "packageName": "lory.js",
+    "fileNames": [
+      "lory.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "lovefield",
+    "fileNames": [
+      "lovefield.d.ts"
+    ]
+  },
+  {
+    "packageName": "lower-case",
+    "fileNames": [
+      "lower-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "lower-case-first",
+    "fileNames": [
+      "lower-case-first.d.ts"
+    ]
+  },
+  {
+    "packageName": "lru-cache",
+    "fileNames": [
+      "lru-cache.d.ts"
+    ]
+  },
+  {
+    "packageName": "lscache",
+    "fileNames": [
+      "lscache.d.ts"
+    ]
+  },
+  {
+    "packageName": "luaparse",
+    "fileNames": [
+      "luaparse.d.ts"
+    ]
+  },
+  {
+    "packageName": "lunr",
+    "fileNames": [
+      "lunr.d.ts"
+    ]
+  },
+  {
+    "packageName": "lwip",
+    "fileNames": [
+      "lwip.d.ts"
+    ]
+  },
+  {
+    "packageName": "lz-string",
+    "fileNames": [
+      "lz-string.d.ts"
+    ]
+  },
+  {
+    "packageName": "magic-number",
+    "fileNames": [
+      "magic-number.d.ts"
+    ]
+  },
+  {
+    "packageName": "magicsuggest",
+    "fileNames": [
+      "magicsuggest.d.ts"
+    ]
+  },
+  {
+    "packageName": "mailcheck",
+    "fileNames": [
+      "mailcheck.d.ts"
+    ]
+  },
+  {
+    "packageName": "maildev",
+    "fileNames": [
+      "maildev.d.ts"
+    ]
+  },
+  {
+    "packageName": "mailparser",
+    "fileNames": [
+      "mailparser.d.ts"
+    ]
+  },
+  {
+    "packageName": "main-bower-files",
+    "fileNames": [
+      "main-bower-files.d.ts"
+    ]
+  },
+  {
+    "packageName": "maker.js",
+    "fileNames": [
+      "makerjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "mandrill-api",
+    "fileNames": [
+      "mandrill-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "mapbox",
+    "fileNames": [
+      "mapbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "mapsjs",
+    "fileNames": [
+      "mapsjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "maquette",
+    "fileNames": [
+      "maquette.d.ts"
+    ]
+  },
+  {
+    "packageName": "mariasql",
+    "fileNames": [
+      "mariasql.d.ts"
+    ]
+  },
+  {
+    "packageName": "marionette",
+    "fileNames": [
+      "marionette.d.ts"
+    ]
+  },
+  {
+    "packageName": "marked",
+    "fileNames": [
+      "marked.d.ts"
+    ]
+  },
+  {
+    "packageName": "markerclustererplus",
+    "fileNames": [
+      "markerclustererplus.d.ts"
+    ]
+  },
+  {
+    "packageName": "markitup",
+    "fileNames": [
+      "markitup.d.ts"
+    ]
+  },
+  {
+    "packageName": "maskedinput",
+    "fileNames": [
+      "maskedinput.d.ts"
+    ]
+  },
+  {
+    "packageName": "material-ui",
+    "fileNames": [
+      "legacy/material-ui-0.11.1.d.ts",
+      "legacy/material-ui-0.12.1.d.ts",
+      "material-ui.d.ts"
+    ]
+  },
+  {
+    "packageName": "mathjax",
+    "fileNames": [
+      "mathjax.d.ts"
+    ]
+  },
+  {
+    "packageName": "mathjs",
+    "fileNames": [
+      "mathjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "matter-js",
+    "fileNames": [
+      "matter-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "mCustomScrollbar",
+    "fileNames": [
+      "mCustomScrollbar.d.ts"
+    ]
+  },
+  {
+    "packageName": "md5",
+    "fileNames": [
+      "md5.d.ts"
+    ]
+  },
+  {
+    "packageName": "mdns",
+    "fileNames": [
+      "mdns.d.ts"
+    ]
+  },
+  {
+    "packageName": "memory-cache",
+    "fileNames": [
+      "memory-cache.d.ts"
+    ]
+  },
+  {
+    "packageName": "mendixmodelsdk",
+    "fileNames": [
+      "mendixmodelsdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "merge-descriptors",
+    "fileNames": [
+      "merge-descriptors.d.ts"
+    ]
+  },
+  {
+    "packageName": "merge-stream",
+    "fileNames": [
+      "merge-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "merge2",
+    "fileNames": [
+      "merge2.d.ts"
+    ]
+  },
+  {
+    "packageName": "meshblu",
+    "fileNames": [
+      "meshblu.d.ts"
+    ]
+  },
+  {
+    "packageName": "mess",
+    "fileNames": [
+      "mess.d.ts"
+    ]
+  },
+  {
+    "packageName": "messenger",
+    "fileNames": [
+      "messenger.d.ts"
+    ]
+  },
+  {
+    "packageName": "meteor",
+    "fileNames": [
+      "meteor.d.ts"
+    ]
+  },
+  {
+    "packageName": "method-override",
+    "fileNames": [
+      "method-override.d.ts"
+    ]
+  },
+  {
+    "packageName": "metismenu",
+    "fileNames": [
+      "metismenu.d.ts"
+    ]
+  },
+  {
+    "packageName": "microsoft-ajax",
+    "fileNames": [
+      "microsoft.ajax.d.ts"
+    ]
+  },
+  {
+    "packageName": "microsoft-live-connect",
+    "fileNames": [
+      "microsoft-live-connect.d.ts"
+    ]
+  },
+  {
+    "packageName": "milkcocoa",
+    "fileNames": [
+      "milkcocoa.d.ts"
+    ]
+  },
+  {
+    "packageName": "milliseconds",
+    "fileNames": [
+      "milliseconds.d.ts"
+    ]
+  },
+  {
+    "packageName": "mime",
+    "fileNames": [
+      "mime.d.ts"
+    ]
+  },
+  {
+    "packageName": "minilog",
+    "fileNames": [
+      "minilog.d.ts"
+    ]
+  },
+  {
+    "packageName": "minimatch",
+    "fileNames": [
+      "minimatch.d.ts"
+    ]
+  },
+  {
+    "packageName": "minimist",
+    "fileNames": [
+      "minimist.d.ts"
+    ]
+  },
+  {
+    "packageName": "mithril",
+    "fileNames": [
+      "mithril.d.ts"
+    ]
+  },
+  {
+    "packageName": "mixpanel",
+    "fileNames": [
+      "mixpanel.d.ts"
+    ]
+  },
+  {
+    "packageName": "mixto",
+    "fileNames": [
+      "mixto.d.ts"
+    ]
+  },
+  {
+    "packageName": "mkdirp",
+    "fileNames": [
+      "mkdirp.d.ts"
+    ]
+  },
+  {
+    "packageName": "mkpath",
+    "fileNames": [
+      "mkpath.d.ts"
+    ]
+  },
+  {
+    "packageName": "mobile-detect",
+    "fileNames": [
+      "mobile-detect.d.ts"
+    ]
+  },
+  {
+    "packageName": "mobservable",
+    "fileNames": [
+      "mobservable.d.ts"
+    ]
+  },
+  {
+    "packageName": "mobservable-react",
+    "fileNames": [
+      "mobservable-react.d.ts"
+    ]
+  },
+  {
+    "packageName": "mocha",
+    "fileNames": [
+      "mocha-node.d.ts",
+      "mocha.d.ts"
+    ]
+  },
+  {
+    "packageName": "mocha-phantomjs",
+    "fileNames": [
+      "mocha-phantomjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "mock-fs",
+    "fileNames": [
+      "mock-fs.d.ts"
+    ]
+  },
+  {
+    "packageName": "mockery",
+    "fileNames": [
+      "mockery.d.ts"
+    ]
+  },
+  {
+    "packageName": "modernizr",
+    "fileNames": [
+      "modernizr.d.ts"
+    ]
+  },
+  {
+    "packageName": "moment",
+    "fileNames": [
+      "moment-node.d.ts",
+      "moment.d.ts"
+    ]
+  },
+  {
+    "packageName": "moment-range",
+    "fileNames": [
+      "moment-range.d.ts"
+    ]
+  },
+  {
+    "packageName": "moment-timezone",
+    "fileNames": [
+      "moment-timezone.d.ts"
+    ]
+  },
+  {
+    "packageName": "mongodb",
+    "fileNames": [
+      "mongodb.d.ts"
+    ]
+  },
+  {
+    "packageName": "mongoose",
+    "fileNames": [
+      "mongoose.d.ts"
+    ]
+  },
+  {
+    "packageName": "mongoose-auto-increment",
+    "fileNames": [
+      "mongoose-auto-increment.d.ts"
+    ]
+  },
+  {
+    "packageName": "mongoose-deep-populate",
+    "fileNames": [
+      "mongoose-deep-populate.d.ts"
+    ]
+  },
+  {
+    "packageName": "mongoose-mock",
+    "fileNames": [
+      "mongoose-mock.d.ts"
+    ]
+  },
+  {
+    "packageName": "morgan",
+    "fileNames": [
+      "morgan.d.ts"
+    ]
+  },
+  {
+    "packageName": "mousetrap",
+    "fileNames": [
+      "mousetrap-global-bind.d.ts",
+      "mousetrap.d.ts"
+    ]
+  },
+  {
+    "packageName": "moviedb",
+    "fileNames": [
+      "moviedb.d.ts"
+    ]
+  },
+  {
+    "packageName": "mpromise",
+    "fileNames": [
+      "mpromise.d.ts"
+    ]
+  },
+  {
+    "packageName": "ms",
+    "fileNames": [
+      "ms.d.ts"
+    ]
+  },
+  {
+    "packageName": "msgpack",
+    "fileNames": [
+      "msgpack.d.ts"
+    ]
+  },
+  {
+    "packageName": "msnodesql",
+    "fileNames": [
+      "msnodesql.d.ts"
+    ]
+  },
+  {
+    "packageName": "msportalfx-test",
+    "fileNames": [
+      "msportalfx-test.d.ts"
+    ]
+  },
+  {
+    "packageName": "mssql",
+    "fileNames": [
+      "mssql.d.ts"
+    ]
+  },
+  {
+    "packageName": "mu2",
+    "fileNames": [
+      "mu2.d.ts"
+    ]
+  },
+  {
+    "packageName": "multer",
+    "fileNames": [
+      "multer.d.ts"
+    ]
+  },
+  {
+    "packageName": "multiparty",
+    "fileNames": [
+      "multiparty.d.ts"
+    ]
+  },
+  {
+    "packageName": "multiplexjs",
+    "fileNames": [
+      "multiplexjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "mustache",
+    "fileNames": [
+      "mustache-0.7.3.d.ts",
+      "mustache.d.ts"
+    ]
+  },
+  {
+    "packageName": "mysql",
+    "fileNames": [
+      "mysql.d.ts"
+    ]
+  },
+  {
+    "packageName": "natural",
+    "fileNames": [
+      "natural.d.ts"
+    ]
+  },
+  {
+    "packageName": "navigation",
+    "fileNames": [
+      "navigation.d.ts"
+    ]
+  },
+  {
+    "packageName": "nconf",
+    "fileNames": [
+      "nconf.d.ts"
+    ]
+  },
+  {
+    "packageName": "ncp",
+    "fileNames": [
+      "ncp.d.ts"
+    ]
+  },
+  {
+    "packageName": "nedb",
+    "fileNames": [
+      "nedb.d.ts"
+    ]
+  },
+  {
+    "packageName": "needle",
+    "fileNames": [
+      "needle.d.ts"
+    ]
+  },
+  {
+    "packageName": "netmask",
+    "fileNames": [
+      "netmask.d.ts"
+    ]
+  },
+  {
+    "packageName": "nexpect",
+    "fileNames": [
+      "nexpect.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-command",
+    "fileNames": [
+      "ng-command.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-cordova",
+    "fileNames": [
+      "actionSheet.d.ts",
+      "app-version.d.ts",
+      "appAvailability.d.ts",
+      "badge.d.ts",
+      "camera.d.ts",
+      "datepicker.d.ts",
+      "device.d.ts",
+      "deviceMotion.d.ts",
+      "deviceOrientation.d.ts",
+      "dialogs.d.ts",
+      "emailComposer.d.ts",
+      "file.d.ts",
+      "fileTransfer.d.ts",
+      "geolocation.d.ts",
+      "network.d.ts",
+      "toast.d.ts",
+      "tsd.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-dialog",
+    "fileNames": [
+      "ng-dialog.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-file-upload",
+    "fileNames": [
+      "ng-file-upload.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-flow",
+    "fileNames": [
+      "ng-flow.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-grid",
+    "fileNames": [
+      "ng-grid.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-i18next",
+    "fileNames": [
+      "ng-i18next.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-notify",
+    "fileNames": [
+      "ng-notify.d.ts"
+    ]
+  },
+  {
+    "packageName": "ng-stomp",
+    "fileNames": [
+      "ng-stomp.d.ts"
+    ]
+  },
+  {
+    "packageName": "ngbootbox",
+    "fileNames": [
+      "ngbootbox.d.ts"
+    ]
+  },
+  {
+    "packageName": "ngkookies",
+    "fileNames": [
+      "ngkookies.d.ts"
+    ]
+  },
+  {
+    "packageName": "ngprogress",
+    "fileNames": [
+      "ngprogress.d.ts"
+    ]
+  },
+  {
+    "packageName": "ngprogress-lite",
+    "fileNames": [
+      "ngprogress-lite.d.ts"
+    ]
+  },
+  {
+    "packageName": "nightmare",
+    "fileNames": [
+      "nightmare.d.ts"
+    ]
+  },
+  {
+    "packageName": "noble",
+    "fileNames": [
+      "noble.d.ts"
+    ]
+  },
+  {
+    "packageName": "nock",
+    "fileNames": [
+      "nock.d.ts"
+    ]
+  },
+  {
+    "packageName": "node",
+    "fileNames": [
+      "node-0.10.d.ts",
+      "node-0.11.d.ts",
+      "node-0.12.d.ts",
+      "node-0.8.8.d.ts",
+      "node.d.ts"
+    ]
+  },
+  {
+    "packageName": "node_redis",
+    "fileNames": [
+      "node_redis.d.ts"
+    ]
+  },
+  {
+    "packageName": "node_zeromq",
+    "fileNames": [
+      "zmq.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-array-ext",
+    "fileNames": [
+      "node-array-ext.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-azure",
+    "fileNames": [
+      "azure.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-cache",
+    "fileNames": [
+      "node-cache.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-calendar",
+    "fileNames": [
+      "node-calendar.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-config-manager",
+    "fileNames": [
+      "node-config-manager.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-ffi",
+    "fileNames": [
+      "node-ffi-buffer.d.ts",
+      "node-ffi.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-fibers",
+    "fileNames": [
+      "node-fibers.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-form",
+    "fileNames": [
+      "node-form.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-gcm",
+    "fileNames": [
+      "node-gcm.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-getopt",
+    "fileNames": [
+      "node-getopt.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-git",
+    "fileNames": [
+      "node-git.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-imap",
+    "fileNames": [
+      "imap.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-jsfl-runner",
+    "fileNames": [
+      "node-jsfl-runner.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-mysql-wrapper",
+    "fileNames": [
+      "my-meteor.d.ts",
+      "node-mysql-wrapper.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-notifier",
+    "fileNames": [
+      "node-notifier.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-persist",
+    "fileNames": [
+      "node-persist.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-polyglot",
+    "fileNames": [
+      "node-polyglot.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-sass",
+    "fileNames": [
+      "node-sass.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-schedule",
+    "fileNames": [
+      "node-schedule.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-slack",
+    "fileNames": [
+      "node-slack.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-uuid",
+    "fileNames": [
+      "node-uuid-base.d.ts",
+      "node-uuid-cjs.d.ts",
+      "node-uuid-global.d.ts",
+      "node-uuid.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-validator",
+    "fileNames": [
+      "node-validator.d.ts"
+    ]
+  },
+  {
+    "packageName": "node-webkit",
+    "fileNames": [
+      "node-webkit.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodemailer",
+    "fileNames": [
+      "nodemailer-types.d.ts",
+      "nodemailer.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodemailer-direct-transport",
+    "fileNames": [
+      "nodemailer-direct-transport.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodemailer-pickup-transport",
+    "fileNames": [
+      "nodemailer-pickup-transport.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodemailer-smtp-pool",
+    "fileNames": [
+      "nodemailer-smtp-pool.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodemailer-smtp-transport",
+    "fileNames": [
+      "nodemailer-smtp-transport.d.ts"
+    ]
+  },
+  {
+    "packageName": "nodeunit",
+    "fileNames": [
+      "nodeunit.d.ts"
+    ]
+  },
+  {
+    "packageName": "nomnom",
+    "fileNames": [
+      "nomnom.d.ts"
+    ]
+  },
+  {
+    "packageName": "nopt",
+    "fileNames": [
+      "nopt.d.ts"
+    ]
+  },
+  {
+    "packageName": "notify",
+    "fileNames": [
+      "notify.d.ts"
+    ]
+  },
+  {
+    "packageName": "notifyjs",
+    "fileNames": [
+      "notifyjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "nouislider",
+    "fileNames": [
+      "nouislider-7.0.10.d.ts",
+      "nouislider.d.ts"
+    ]
+  },
+  {
+    "packageName": "noVNC",
+    "fileNames": [
+      "noVNC.d.ts"
+    ]
+  },
+  {
+    "packageName": "npm",
+    "fileNames": [
+      "npm.d.ts"
+    ]
+  },
+  {
+    "packageName": "nprogress",
+    "fileNames": [
+      "NProgress.d.ts"
+    ]
+  },
+  {
+    "packageName": "numbro",
+    "fileNames": [
+      "numbro.d.ts"
+    ]
+  },
+  {
+    "packageName": "numeraljs",
+    "fileNames": [
+      "numeraljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "oauth.js",
+    "fileNames": [
+      "oauth.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "obelisk.js",
+    "fileNames": [
+      "obelisk.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "object-assign",
+    "fileNames": [
+      "object-assign.d.ts"
+    ]
+  },
+  {
+    "packageName": "object-hash",
+    "fileNames": [
+      "object-hash.d.ts"
+    ]
+  },
+  {
+    "packageName": "object-path",
+    "fileNames": [
+      "object-path.d.ts"
+    ]
+  },
+  {
+    "packageName": "oblo-util",
+    "fileNames": [
+      "oblo-util.d.ts"
+    ]
+  },
+  {
+    "packageName": "oboe",
+    "fileNames": [
+      "oboe.d.ts"
+    ]
+  },
+  {
+    "packageName": "observe-js",
+    "fileNames": [
+      "observe-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "oclazyload",
+    "fileNames": [
+      "oclazyload.d.ts"
+    ]
+  },
+  {
+    "packageName": "office-js",
+    "fileNames": [
+      "office-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "offline-js",
+    "fileNames": [
+      "offline-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "on-finished",
+    "fileNames": [
+      "on-finished.d.ts"
+    ]
+  },
+  {
+    "packageName": "on-headers",
+    "fileNames": [
+      "on-headers.d.ts"
+    ]
+  },
+  {
+    "packageName": "onsenui",
+    "fileNames": [
+      "onsenui.d.ts"
+    ]
+  },
+  {
+    "packageName": "open",
+    "fileNames": [
+      "open.d.ts"
+    ]
+  },
+  {
+    "packageName": "OpenJsCad",
+    "fileNames": [
+      "openjscad.d.ts"
+    ]
+  },
+  {
+    "packageName": "openlayers",
+    "fileNames": [
+      "openlayers.d.ts"
+    ]
+  },
+  {
+    "packageName": "openpgp",
+    "fileNames": [
+      "openpgp.d.ts"
+    ]
+  },
+  {
+    "packageName": "opn",
+    "fileNames": [
+      "opn.d.ts"
+    ]
+  },
+  {
+    "packageName": "optimist",
+    "fileNames": [
+      "optimist.d.ts"
+    ]
+  },
+  {
+    "packageName": "orchestrator",
+    "fileNames": [
+      "orchestrator.d.ts"
+    ]
+  },
+  {
+    "packageName": "os-locale",
+    "fileNames": [
+      "os-locale.d.ts"
+    ]
+  },
+  {
+    "packageName": "owlcarousel",
+    "fileNames": [
+      "owlcarousel.d.ts"
+    ]
+  },
+  {
+    "packageName": "p2",
+    "fileNames": [
+      "p2.d.ts"
+    ]
+  },
+  {
+    "packageName": "packery",
+    "fileNames": [
+      "packery.d.ts"
+    ]
+  },
+  {
+    "packageName": "page",
+    "fileNames": [
+      "page.d.ts"
+    ]
+  },
+  {
+    "packageName": "pako",
+    "fileNames": [
+      "pako.d.ts"
+    ]
+  },
+  {
+    "packageName": "papaparse",
+    "fileNames": [
+      "papaparse.d.ts"
+    ]
+  },
+  {
+    "packageName": "parallel",
+    "fileNames": [
+      "parallel.d.ts"
+    ]
+  },
+  {
+    "packageName": "param-case",
+    "fileNames": [
+      "param-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "parse",
+    "fileNames": [
+      "parse.d.ts"
+    ]
+  },
+  {
+    "packageName": "parsimmon",
+    "fileNames": [
+      "parsimmon.d.ts"
+    ]
+  },
+  {
+    "packageName": "pascal-case",
+    "fileNames": [
+      "pascal-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport",
+    "fileNames": [
+      "passport.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-facebook",
+    "fileNames": [
+      "passport-facebook.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-facebook-token",
+    "fileNames": [
+      "passport-facebook-token.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-google-oauth",
+    "fileNames": [
+      "passport-google-oauth.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-local",
+    "fileNames": [
+      "passport-local.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-strategy",
+    "fileNames": [
+      "passport-strategy.d.ts"
+    ]
+  },
+  {
+    "packageName": "passport-twitter",
+    "fileNames": [
+      "passport-twitter.d.ts"
+    ]
+  },
+  {
+    "packageName": "path-case",
+    "fileNames": [
+      "path-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "path-exists",
+    "fileNames": [
+      "path-exists.d.ts"
+    ]
+  },
+  {
+    "packageName": "path-to-regexp",
+    "fileNames": [
+      "path-to-regexp.d.ts"
+    ]
+  },
+  {
+    "packageName": "pathjs",
+    "fileNames": [
+      "pathjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "pathwatcher",
+    "fileNames": [
+      "pathwatcher.d.ts"
+    ]
+  },
+  {
+    "packageName": "PayPal-Cordova-Plugin",
+    "fileNames": [
+      "PayPal-Cordova-Plugin.d.ts"
+    ]
+  },
+  {
+    "packageName": "pdf",
+    "fileNames": [
+      "pdf.d.ts"
+    ]
+  },
+  {
+    "packageName": "pdfkit",
+    "fileNames": [
+      "pdfkit.d.ts"
+    ]
+  },
+  {
+    "packageName": "peerjs",
+    "fileNames": [
+      "peerjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "pegjs",
+    "fileNames": [
+      "pegjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "persona",
+    "fileNames": [
+      "persona.d.ts"
+    ]
+  },
+  {
+    "packageName": "pg",
+    "fileNames": [
+      "pg.d.ts"
+    ]
+  },
+  {
+    "packageName": "pgwmodal",
+    "fileNames": [
+      "pgwmodal.d.ts"
+    ]
+  },
+  {
+    "packageName": "phantom",
+    "fileNames": [
+      "phantom.d.ts"
+    ]
+  },
+  {
+    "packageName": "phantomjs",
+    "fileNames": [
+      "phantomjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "phonegap",
+    "fileNames": [
+      "phonegap.d.ts"
+    ]
+  },
+  {
+    "packageName": "phonegap-facebook-plugin",
+    "fileNames": [
+      "phonegap-facebook-plugin.d.ts"
+    ]
+  },
+  {
+    "packageName": "phonegap-plugin-push",
+    "fileNames": [
+      "phonegap-plugin-push.d.ts"
+    ]
+  },
+  {
+    "packageName": "photonui",
+    "fileNames": [
+      "photonui.d.ts"
+    ]
+  },
+  {
+    "packageName": "photoswipe",
+    "fileNames": [
+      "photoswipe.d.ts"
+    ]
+  },
+  {
+    "packageName": "physijs",
+    "fileNames": [
+      "physijs.d.ts"
+    ]
+  },
+  {
+    "packageName": "pickadate",
+    "fileNames": [
+      "pickadate.d.ts"
+    ]
+  },
+  {
+    "packageName": "pikaday",
+    "fileNames": [
+      "pikaday.d.ts"
+    ]
+  },
+  {
+    "packageName": "pinkyswear",
+    "fileNames": [
+      "pinkyswear.d.ts"
+    ]
+  },
+  {
+    "packageName": "piwik-tracker",
+    "fileNames": [
+      "piwik-tracker.d.ts"
+    ]
+  },
+  {
+    "packageName": "pixi-spine",
+    "fileNames": [
+      "pixi-spine.d.ts"
+    ]
+  },
+  {
+    "packageName": "pixi.js",
+    "fileNames": [
+      "pixi.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "platform",
+    "fileNames": [
+      "platform.d.ts"
+    ]
+  },
+  {
+    "packageName": "playerframework",
+    "fileNames": [
+      "playerFramework.d.ts"
+    ]
+  },
+  {
+    "packageName": "pleasejs",
+    "fileNames": [
+      "please.d.ts"
+    ]
+  },
+  {
+    "packageName": "plottable",
+    "fileNames": [
+      "plottable.d.ts"
+    ]
+  },
+  {
+    "packageName": "pluralize",
+    "fileNames": [
+      "pluralize.d.ts"
+    ]
+  },
+  {
+    "packageName": "png-async",
+    "fileNames": [
+      "png-async.d.ts"
+    ]
+  },
+  {
+    "packageName": "pngjs2",
+    "fileNames": [
+      "pngjs2.d.ts"
+    ]
+  },
+  {
+    "packageName": "podcast",
+    "fileNames": [
+      "podcast.d.ts"
+    ]
+  },
+  {
+    "packageName": "poly2tri",
+    "fileNames": [
+      "poly2tri.d.ts"
+    ]
+  },
+  {
+    "packageName": "polyline",
+    "fileNames": [
+      "polyline.d.ts"
+    ]
+  },
+  {
+    "packageName": "polymer",
+    "fileNames": [
+      "polymer.d.ts"
+    ]
+  },
+  {
+    "packageName": "polymer-ts",
+    "fileNames": [
+      "polymer-ts.d.ts"
+    ]
+  },
+  {
+    "packageName": "popcorn",
+    "fileNames": [
+      "popcorn.d.ts"
+    ]
+  },
+  {
+    "packageName": "postal",
+    "fileNames": [
+      "postal-0.8.9.d.ts",
+      "postal.d.ts"
+    ]
+  },
+  {
+    "packageName": "pouchDB",
+    "fileNames": [
+      "pouch.d.ts"
+    ]
+  },
+  {
+    "packageName": "power-assert",
+    "fileNames": [
+      "power-assert.d.ts"
+    ]
+  },
+  {
+    "packageName": "power-assert-formatter",
+    "fileNames": [
+      "power-assert-formatter.d.ts"
+    ]
+  },
+  {
+    "packageName": "precise",
+    "fileNames": [
+      "precise.d.ts"
+    ]
+  },
+  {
+    "packageName": "precond",
+    "fileNames": [
+      "precond.d.ts"
+    ]
+  },
+  {
+    "packageName": "preloadjs",
+    "fileNames": [
+      "preloadjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "prelude-ls",
+    "fileNames": [
+      "prelude-ls.d.ts"
+    ]
+  },
+  {
+    "packageName": "progress",
+    "fileNames": [
+      "progress.d.ts"
+    ]
+  },
+  {
+    "packageName": "progressjs",
+    "fileNames": [
+      "progress.d.ts"
+    ]
+  },
+  {
+    "packageName": "project-oxford",
+    "fileNames": [
+      "project-oxford.d.ts"
+    ]
+  },
+  {
+    "packageName": "promise-pool",
+    "fileNames": [
+      "promise-pool.d.ts"
+    ]
+  },
+  {
+    "packageName": "promises-a-plus",
+    "fileNames": [
+      "promises-a-plus.d.ts"
+    ]
+  },
+  {
+    "packageName": "promptly",
+    "fileNames": [
+      "promptly.d.ts"
+    ]
+  },
+  {
+    "packageName": "protobufjs",
+    "fileNames": [
+      "protobufjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "proxyquire",
+    "fileNames": [
+      "proxyquire.d.ts"
+    ]
+  },
+  {
+    "packageName": "pty.js",
+    "fileNames": [
+      "pty.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "pubsubjs",
+    "fileNames": [
+      "pubsub.d.ts"
+    ]
+  },
+  {
+    "packageName": "purl",
+    "fileNames": [
+      "purl-jquery.d.ts",
+      "purl.d.ts"
+    ]
+  },
+  {
+    "packageName": "pusher-js",
+    "fileNames": [
+      "pusher-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "q",
+    "fileNames": [
+      "Q.d.ts"
+    ]
+  },
+  {
+    "packageName": "q-io",
+    "fileNames": [
+      "Q-io.d.ts"
+    ]
+  },
+  {
+    "packageName": "q-retry",
+    "fileNames": [
+      "q-retry.d.ts"
+    ]
+  },
+  {
+    "packageName": "qajax",
+    "fileNames": [
+      "qajax.d.ts"
+    ]
+  },
+  {
+    "packageName": "qs",
+    "fileNames": [
+      "qs.d.ts"
+    ]
+  },
+  {
+    "packageName": "qtip2",
+    "fileNames": [
+      "qtip2.d.ts"
+    ]
+  },
+  {
+    "packageName": "query-string",
+    "fileNames": [
+      "query-string.d.ts"
+    ]
+  },
+  {
+    "packageName": "quixote",
+    "fileNames": [
+      "quixote.d.ts"
+    ]
+  },
+  {
+    "packageName": "qunit",
+    "fileNames": [
+      "qunit.d.ts"
+    ]
+  },
+  {
+    "packageName": "qwest",
+    "fileNames": [
+      "qwest.d.ts"
+    ]
+  },
+  {
+    "packageName": "rabbit.js",
+    "fileNames": [
+      "rabbit.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "ractive",
+    "fileNames": [
+      "ractive.d.ts"
+    ]
+  },
+  {
+    "packageName": "radius",
+    "fileNames": [
+      "radius.d.ts"
+    ]
+  },
+  {
+    "packageName": "random-string",
+    "fileNames": [
+      "random-string.d.ts"
+    ]
+  },
+  {
+    "packageName": "rangy",
+    "fileNames": [
+      "rangy.d.ts"
+    ]
+  },
+  {
+    "packageName": "raphael",
+    "fileNames": [
+      "raphael.d.ts"
+    ]
+  },
+  {
+    "packageName": "rappid",
+    "fileNames": [
+      "rappid.d.ts"
+    ]
+  },
+  {
+    "packageName": "ratelimiter",
+    "fileNames": [
+      "ratelimiter.d.ts"
+    ]
+  },
+  {
+    "packageName": "ravenjs",
+    "fileNames": [
+      "ravenjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "raygun4js",
+    "fileNames": [
+      "raygun4js.d.ts"
+    ]
+  },
+  {
+    "packageName": "react",
+    "fileNames": [
+      "react-0.13.3.d.ts",
+      "react-addons-create-fragment.d.ts",
+      "react-addons-css-transition-group.d.ts",
+      "react-addons-linked-state-mixin.d.ts",
+      "react-addons-perf.d.ts",
+      "react-addons-pure-render-mixin.d.ts",
+      "react-addons-shallow-compare.d.ts",
+      "react-addons-test-utils.d.ts",
+      "react-addons-transition-group.d.ts",
+      "react-addons-update.d.ts",
+      "react-dom.d.ts",
+      "react-global-0.13.3.d.ts",
+      "react-global.d.ts",
+      "react.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-bootstrap",
+    "fileNames": [
+      "react-bootstrap.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-bootstrap-daterangepicker",
+    "fileNames": []
+  },
+  {
+    "packageName": "react-datagrid",
+    "fileNames": [
+      "react-datagrid.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-day-picker",
+    "fileNames": [
+      "react-day-picker.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-dnd",
+    "fileNames": [
+      "react-dnd.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-dropzone",
+    "fileNames": [
+      "react-dropzone.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-infinite",
+    "fileNames": [
+      "react-infinite.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-input-calendar",
+    "fileNames": [
+      "react-input-calendar.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-intl",
+    "fileNames": [
+      "react-intl-1.2.0.d.ts",
+      "react-intl.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-mixin",
+    "fileNames": [
+      "react-mixin.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-native",
+    "fileNames": [
+      "react-native.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-props-decorators",
+    "fileNames": [
+      "react-props-decorators.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-redux",
+    "fileNames": [
+      "react-redux.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-router",
+    "fileNames": [
+      "history.d.ts",
+      "react-router-0.13.3.d.ts",
+      "react-router.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-spinkit",
+    "fileNames": [
+      "react-spinkit.d.ts"
+    ]
+  },
+  {
+    "packageName": "react-swf",
+    "fileNames": [
+      "react-swf.d.ts"
+    ]
+  },
+  {
+    "packageName": "read",
+    "fileNames": [
+      "read.d.ts"
+    ]
+  },
+  {
+    "packageName": "readdir-stream",
+    "fileNames": [
+      "readdir-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "recaptcha",
+    "fileNames": [
+      "recaptcha.d.ts"
+    ]
+  },
+  {
+    "packageName": "recursive-readdir",
+    "fileNames": [
+      "recursive-readdir.d.ts"
+    ]
+  },
+  {
+    "packageName": "redis",
+    "fileNames": [
+      "redis.d.ts"
+    ]
+  },
+  {
+    "packageName": "redlock",
+    "fileNames": [
+      "redlock.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux",
+    "fileNames": [
+      "redux.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux-action-utils",
+    "fileNames": [
+      "redux-action-utils.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux-actions",
+    "fileNames": [
+      "redux-actions.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux-devtools",
+    "fileNames": [
+      "redux-devtools.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux-logger",
+    "fileNames": [
+      "redux-logger.d.ts"
+    ]
+  },
+  {
+    "packageName": "redux-thunk",
+    "fileNames": [
+      "redux-thunk.d.ts"
+    ]
+  },
+  {
+    "packageName": "ref",
+    "fileNames": [
+      "ref.d.ts"
+    ]
+  },
+  {
+    "packageName": "ref-array",
+    "fileNames": [
+      "ref-array.d.ts"
+    ]
+  },
+  {
+    "packageName": "ref-struct",
+    "fileNames": [
+      "ref-struct.d.ts"
+    ]
+  },
+  {
+    "packageName": "ref-union",
+    "fileNames": [
+      "ref-union.d.ts"
+    ]
+  },
+  {
+    "packageName": "reflux",
+    "fileNames": [
+      "reflux.d.ts"
+    ]
+  },
+  {
+    "packageName": "request",
+    "fileNames": [
+      "request.d.ts"
+    ]
+  },
+  {
+    "packageName": "request-ip",
+    "fileNames": [
+      "request-ip.d.ts"
+    ]
+  },
+  {
+    "packageName": "request-promise",
+    "fileNames": [
+      "request-promise.d.ts"
+    ]
+  },
+  {
+    "packageName": "requirejs",
+    "fileNames": [
+      "require.d.ts"
+    ]
+  },
+  {
+    "packageName": "requirejs-domready",
+    "fileNames": [
+      "domready.d.ts"
+    ]
+  },
+  {
+    "packageName": "resemblejs",
+    "fileNames": [
+      "resemblejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "response-time",
+    "fileNames": [
+      "response-time.d.ts"
+    ]
+  },
+  {
+    "packageName": "rest",
+    "fileNames": [
+      "rest.d.ts"
+    ]
+  },
+  {
+    "packageName": "rest-io",
+    "fileNames": [
+      "rest-io.d.ts"
+    ]
+  },
+  {
+    "packageName": "restangular",
+    "fileNames": [
+      "restangular.d.ts"
+    ]
+  },
+  {
+    "packageName": "restful.js",
+    "fileNames": [
+      "restful.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "restify",
+    "fileNames": [
+      "restify.d.ts"
+    ]
+  },
+  {
+    "packageName": "rethinkdb",
+    "fileNames": [
+      "rethinkdb.d.ts"
+    ]
+  },
+  {
+    "packageName": "reveal",
+    "fileNames": [
+      "reveal.d.ts"
+    ]
+  },
+  {
+    "packageName": "rickshaw",
+    "fileNames": [
+      "rickshaw.d.ts"
+    ]
+  },
+  {
+    "packageName": "rimraf",
+    "fileNames": [
+      "rimraf.d.ts"
+    ]
+  },
+  {
+    "packageName": "riot-games-api",
+    "fileNames": [
+      "riot-games-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "riotcontrol",
+    "fileNames": [
+      "riotcontrol.d.ts"
+    ]
+  },
+  {
+    "packageName": "riotjs",
+    "fileNames": [
+      "riotjs-render.d.ts",
+      "riotjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "rivets",
+    "fileNames": [
+      "rivets.d.ts"
+    ]
+  },
+  {
+    "packageName": "rosie",
+    "fileNames": [
+      "rosie.d.ts"
+    ]
+  },
+  {
+    "packageName": "roslib",
+    "fileNames": [
+      "roslib.d.ts"
+    ]
+  },
+  {
+    "packageName": "route-recognizer",
+    "fileNames": [
+      "route-recognizer.d.ts"
+    ]
+  },
+  {
+    "packageName": "routie",
+    "fileNames": [
+      "routie.d.ts"
+    ]
+  },
+  {
+    "packageName": "royalslider",
+    "fileNames": [
+      "royalslider.d.ts"
+    ]
+  },
+  {
+    "packageName": "rsmq",
+    "fileNames": [
+      "rsmq.d.ts"
+    ]
+  },
+  {
+    "packageName": "rsmq-worker",
+    "fileNames": [
+      "rsmq-worker.d.ts"
+    ]
+  },
+  {
+    "packageName": "rtree",
+    "fileNames": [
+      "rtree.d.ts"
+    ]
+  },
+  {
+    "packageName": "run-sequence",
+    "fileNames": [
+      "run-sequence.d.ts"
+    ]
+  },
+  {
+    "packageName": "rx",
+    "fileNames": [
+      "rx-lite.d.ts",
+      "rx.aggregates.d.ts",
+      "rx.all.d.ts",
+      "rx.async-lite.d.ts",
+      "rx.async.d.ts",
+      "rx.backpressure-lite.d.ts",
+      "rx.backpressure.d.ts",
+      "rx.binding-lite.d.ts",
+      "rx.binding.d.ts",
+      "rx.coincidence-lite.d.ts",
+      "rx.coincidence.d.ts",
+      "rx.d.ts",
+      "rx.experimental.d.ts",
+      "rx.joinpatterns.d.ts",
+      "rx.lite.d.ts",
+      "rx.testing.d.ts",
+      "rx.time-lite.d.ts",
+      "rx.time.d.ts",
+      "rx.virtualtime.d.ts"
+    ]
+  },
+  {
+    "packageName": "rx-angular",
+    "fileNames": [
+      "rx.angular.d.ts"
+    ]
+  },
+  {
+    "packageName": "rx-jquery",
+    "fileNames": [
+      "rx.jquery.d.ts"
+    ]
+  },
+  {
+    "packageName": "s3-uploader",
+    "fileNames": [
+      "s3-uploader.d.ts"
+    ]
+  },
+  {
+    "packageName": "sammyjs",
+    "fileNames": [
+      "sammyjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "sanitize-filename",
+    "fileNames": [
+      "sanitize-filename.d.ts"
+    ]
+  },
+  {
+    "packageName": "sanitize-html",
+    "fileNames": [
+      "sanitize-html.d.ts"
+    ]
+  },
+  {
+    "packageName": "sanitizer",
+    "fileNames": [
+      "sanitizer.d.ts"
+    ]
+  },
+  {
+    "packageName": "satnav",
+    "fileNames": [
+      "satnav.d.ts"
+    ]
+  },
+  {
+    "packageName": "sax",
+    "fileNames": [
+      "sax.d.ts"
+    ]
+  },
+  {
+    "packageName": "scalike",
+    "fileNames": [
+      "scalike.d.ts"
+    ]
+  },
+  {
+    "packageName": "screenfull",
+    "fileNames": [
+      "screenfull.d.ts"
+    ]
+  },
+  {
+    "packageName": "scroller",
+    "fileNames": [
+      "easyscroller.d.ts",
+      "scroller.d.ts"
+    ]
+  },
+  {
+    "packageName": "scrolltofixed",
+    "fileNames": [
+      "scrolltofixed.d.ts"
+    ]
+  },
+  {
+    "packageName": "seedrandom",
+    "fileNames": [
+      "seedrandom.d.ts"
+    ]
+  },
+  {
+    "packageName": "segment-analytics",
+    "fileNames": [
+      "segment-analytics.d.ts"
+    ]
+  },
+  {
+    "packageName": "select2",
+    "fileNames": [
+      "select2.d.ts"
+    ]
+  },
+  {
+    "packageName": "selectize",
+    "fileNames": [
+      "selectize.d.ts"
+    ]
+  },
+  {
+    "packageName": "selenium-webdriver",
+    "fileNames": [
+      "selenium-webdriver.d.ts"
+    ]
+  },
+  {
+    "packageName": "semaphore",
+    "fileNames": [
+      "semaphore.d.ts"
+    ]
+  },
+  {
+    "packageName": "semver",
+    "fileNames": [
+      "semver.d.ts"
+    ]
+  },
+  {
+    "packageName": "sencha_touch",
+    "fileNames": [
+      "SenchaTouch-2.2.1.d.ts",
+      "SenchaTouch.d.ts"
+    ]
+  },
+  {
+    "packageName": "sendgrid",
+    "fileNames": [
+      "sendgrid.d.ts"
+    ]
+  },
+  {
+    "packageName": "sentence-case",
+    "fileNames": [
+      "sentence-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "sequelize",
+    "fileNames": [
+      "sequelize-2.0.0.d.ts",
+      "sequelize.d.ts"
+    ]
+  },
+  {
+    "packageName": "sequelize-fixtures",
+    "fileNames": [
+      "sequelize-fixtures.d.ts"
+    ]
+  },
+  {
+    "packageName": "serve-favicon",
+    "fileNames": [
+      "serve-favicon.d.ts"
+    ]
+  },
+  {
+    "packageName": "serve-static",
+    "fileNames": [
+      "serve-static.d.ts"
+    ]
+  },
+  {
+    "packageName": "sharedworker",
+    "fileNames": [
+      "SharedWorker.d.ts"
+    ]
+  },
+  {
+    "packageName": "sharepoint",
+    "fileNames": [
+      "SharePoint.d.ts"
+    ]
+  },
+  {
+    "packageName": "shelljs",
+    "fileNames": [
+      "shelljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "shortid",
+    "fileNames": [
+      "shortid.d.ts"
+    ]
+  },
+  {
+    "packageName": "should",
+    "fileNames": [
+      "should.d.ts"
+    ]
+  },
+  {
+    "packageName": "should-promised",
+    "fileNames": [
+      "should-promised.d.ts"
+    ]
+  },
+  {
+    "packageName": "showdown",
+    "fileNames": [
+      "showdown.d.ts"
+    ]
+  },
+  {
+    "packageName": "shuffle-array",
+    "fileNames": [
+      "shuffle-array.d.ts"
+    ]
+  },
+  {
+    "packageName": "siesta",
+    "fileNames": [
+      "siesta.d.ts"
+    ]
+  },
+  {
+    "packageName": "sigmajs",
+    "fileNames": [
+      "sigmajs.d.ts"
+    ]
+  },
+  {
+    "packageName": "signalr",
+    "fileNames": [
+      "signalr.d.ts"
+    ]
+  },
+  {
+    "packageName": "signature_pad",
+    "fileNames": [
+      "signature_pad.d.ts"
+    ]
+  },
+  {
+    "packageName": "simple-cw-node",
+    "fileNames": [
+      "simple-cw-node.d.ts"
+    ]
+  },
+  {
+    "packageName": "simple-mock",
+    "fileNames": [
+      "simple-mock.d.ts"
+    ]
+  },
+  {
+    "packageName": "simplebar",
+    "fileNames": [
+      "simplebar.d.ts"
+    ]
+  },
+  {
+    "packageName": "simplestorage.js",
+    "fileNames": [
+      "simplestorage.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "sinon",
+    "fileNames": [
+      "sinon.d.ts"
+    ]
+  },
+  {
+    "packageName": "sinon-chai",
+    "fileNames": [
+      "sinon-chai.d.ts"
+    ]
+  },
+  {
+    "packageName": "sinon-chrome",
+    "fileNames": [
+      "sinon-chrome.d.ts"
+    ]
+  },
+  {
+    "packageName": "sipml",
+    "fileNames": [
+      "sipml.d.ts"
+    ]
+  },
+  {
+    "packageName": "sjcl",
+    "fileNames": [
+      "sjcl.d.ts"
+    ]
+  },
+  {
+    "packageName": "ski",
+    "fileNames": [
+      "ski.d.ts"
+    ]
+  },
+  {
+    "packageName": "skyway",
+    "fileNames": [
+      "skyway.d.ts"
+    ]
+  },
+  {
+    "packageName": "slickgrid",
+    "fileNames": [
+      "SlickGrid.d.ts",
+      "slick.autotooltips.d.ts",
+      "slick.headerbuttons.d.ts",
+      "slick.rowselectionmodel.d.ts"
+    ]
+  },
+  {
+    "packageName": "smoothie",
+    "fileNames": [
+      "smoothie.d.ts"
+    ]
+  },
+  {
+    "packageName": "snake-case",
+    "fileNames": [
+      "snake-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "snapsvg",
+    "fileNames": [
+      "snapsvg.d.ts"
+    ]
+  },
+  {
+    "packageName": "socket.io",
+    "fileNames": [
+      "socket.io.d.ts"
+    ]
+  },
+  {
+    "packageName": "socket.io-client",
+    "fileNames": [
+      "socket.io-client.d.ts"
+    ]
+  },
+  {
+    "packageName": "socket.io.users",
+    "fileNames": [
+      "socket.io.users.d.ts"
+    ]
+  },
+  {
+    "packageName": "socketty",
+    "fileNames": [
+      "socketty.d.ts"
+    ]
+  },
+  {
+    "packageName": "sockjs",
+    "fileNames": [
+      "sockjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "sockjs-client",
+    "fileNames": [
+      "sockjs-client.d.ts"
+    ]
+  },
+  {
+    "packageName": "sockjs-node",
+    "fileNames": [
+      "sockjs-node.d.ts"
+    ]
+  },
+  {
+    "packageName": "sortablejs",
+    "fileNames": [
+      "sortablejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "soundjs",
+    "fileNames": [
+      "soundjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "source-map",
+    "fileNames": [
+      "source-map.d.ts"
+    ]
+  },
+  {
+    "packageName": "source-map-support",
+    "fileNames": [
+      "source-map-support.d.ts"
+    ]
+  },
+  {
+    "packageName": "space-pen",
+    "fileNames": [
+      "space-pen.d.ts"
+    ]
+  },
+  {
+    "packageName": "spectrum",
+    "fileNames": [
+      "spectrum.d.ts"
+    ]
+  },
+  {
+    "packageName": "spin",
+    "fileNames": [
+      "spin.d.ts"
+    ]
+  },
+  {
+    "packageName": "split",
+    "fileNames": [
+      "split.d.ts"
+    ]
+  },
+  {
+    "packageName": "sprintf",
+    "fileNames": [
+      "sprintf.d.ts"
+    ]
+  },
+  {
+    "packageName": "sprintf-js",
+    "fileNames": [
+      "sprintf-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "sql.js",
+    "fileNames": [
+      "sql.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "sqlite3",
+    "fileNames": [
+      "sqlite3.d.ts"
+    ]
+  },
+  {
+    "packageName": "squirejs",
+    "fileNames": [
+      "squirejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "srp",
+    "fileNames": [
+      "srp.d.ts"
+    ]
+  },
+  {
+    "packageName": "ssh2",
+    "fileNames": [
+      "ssh2.d.ts"
+    ]
+  },
+  {
+    "packageName": "stack-mapper",
+    "fileNames": [
+      "stack-mapper.d.ts"
+    ]
+  },
+  {
+    "packageName": "stack-trace",
+    "fileNames": [
+      "stack-trace.d.ts"
+    ]
+  },
+  {
+    "packageName": "stacktrace-js",
+    "fileNames": [
+      "stacktrace-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "stampit",
+    "fileNames": [
+      "stampit.d.ts"
+    ]
+  },
+  {
+    "packageName": "stamplay-js-sdk",
+    "fileNames": [
+      "stamplay-js-sdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "state-machine",
+    "fileNames": [
+      "state-machine.d.ts"
+    ]
+  },
+  {
+    "packageName": "static-eval",
+    "fileNames": [
+      "static-eval.d.ts"
+    ]
+  },
+  {
+    "packageName": "stats",
+    "fileNames": [
+      "stats.d.ts"
+    ]
+  },
+  {
+    "packageName": "statsd-client",
+    "fileNames": [
+      "statsd-client.d.ts"
+    ]
+  },
+  {
+    "packageName": "status-bar",
+    "fileNames": [
+      "status-bar.d.ts"
+    ]
+  },
+  {
+    "packageName": "statuses",
+    "fileNames": [
+      "statuses.d.ts"
+    ]
+  },
+  {
+    "packageName": "steam",
+    "fileNames": [
+      "steam.d.ts"
+    ]
+  },
+  {
+    "packageName": "storejs",
+    "fileNames": [
+      "storejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "stream-series",
+    "fileNames": [
+      "stream-series.d.ts"
+    ]
+  },
+  {
+    "packageName": "stream-to-array",
+    "fileNames": [
+      "stream-to-array.d.ts"
+    ]
+  },
+  {
+    "packageName": "streamjs",
+    "fileNames": [
+      "streamjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "string",
+    "fileNames": [
+      "string.d.ts"
+    ]
+  },
+  {
+    "packageName": "string_score",
+    "fileNames": [
+      "string_score.d.ts"
+    ]
+  },
+  {
+    "packageName": "strip-json-comments",
+    "fileNames": [
+      "strip-json-comments.d.ts"
+    ]
+  },
+  {
+    "packageName": "stripe",
+    "fileNames": [
+      "stripe-node.d.ts",
+      "stripe.d.ts"
+    ]
+  },
+  {
+    "packageName": "stripe-checkout",
+    "fileNames": [
+      "stripe-checkout.d.ts"
+    ]
+  },
+  {
+    "packageName": "strophe",
+    "fileNames": [
+      "strophe.d.ts"
+    ]
+  },
+  {
+    "packageName": "stylus",
+    "fileNames": [
+      "stylus.d.ts"
+    ]
+  },
+  {
+    "packageName": "succinct",
+    "fileNames": [
+      "succinct.d.ts"
+    ]
+  },
+  {
+    "packageName": "sugar",
+    "fileNames": [
+      "sugar.d.ts"
+    ]
+  },
+  {
+    "packageName": "superagent",
+    "fileNames": [
+      "superagent.d.ts"
+    ]
+  },
+  {
+    "packageName": "supertest",
+    "fileNames": [
+      "supertest.d.ts"
+    ]
+  },
+  {
+    "packageName": "supertest-as-promised",
+    "fileNames": [
+      "supertest-as-promised.d.ts"
+    ]
+  },
+  {
+    "packageName": "svg-injector",
+    "fileNames": [
+      "svg-injector.d.ts"
+    ]
+  },
+  {
+    "packageName": "svg-pan-zoom",
+    "fileNames": [
+      "svg-pan-zoom.d.ts"
+    ]
+  },
+  {
+    "packageName": "svg-sprite",
+    "fileNames": [
+      "svg-sprite.d.ts"
+    ]
+  },
+  {
+    "packageName": "svg2png",
+    "fileNames": [
+      "svg2png.d.ts"
+    ]
+  },
+  {
+    "packageName": "svgjs",
+    "fileNames": [
+      "svgjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "svgjs.draggable",
+    "fileNames": [
+      "svgjs.draggable.d.ts"
+    ]
+  },
+  {
+    "packageName": "swag",
+    "fileNames": [
+      "swag.d.ts"
+    ]
+  },
+  {
+    "packageName": "swaggerize-express",
+    "fileNames": [
+      "swaggerize-express.d.ts"
+    ]
+  },
+  {
+    "packageName": "swap-case",
+    "fileNames": [
+      "swap-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "sweetalert",
+    "fileNames": [
+      "sweetalert.d.ts"
+    ]
+  },
+  {
+    "packageName": "swfobject",
+    "fileNames": [
+      "swfobject.d.ts"
+    ]
+  },
+  {
+    "packageName": "swig",
+    "fileNames": [
+      "swig.d.ts"
+    ]
+  },
+  {
+    "packageName": "swig-email-templates",
+    "fileNames": [
+      "swig-email-templates.d.ts"
+    ]
+  },
+  {
+    "packageName": "swipe",
+    "fileNames": [
+      "swipe.d.ts"
+    ]
+  },
+  {
+    "packageName": "swiper",
+    "fileNames": [
+      "swiper.d.ts"
+    ]
+  },
+  {
+    "packageName": "swipeview",
+    "fileNames": [
+      "swipeview.d.ts"
+    ]
+  },
+  {
+    "packageName": "switchery",
+    "fileNames": [
+      "switchery.d.ts"
+    ]
+  },
+  {
+    "packageName": "swiz",
+    "fileNames": [
+      "swiz.d.ts"
+    ]
+  },
+  {
+    "packageName": "systemjs",
+    "fileNames": [
+      "systemjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "tabris",
+    "fileNames": [
+      "tabris.d.ts"
+    ]
+  },
+  {
+    "packageName": "tabtab",
+    "fileNames": [
+      "tabtab.d.ts"
+    ]
+  },
+  {
+    "packageName": "tape",
+    "fileNames": [
+      "tape.d.ts"
+    ]
+  },
+  {
+    "packageName": "tar",
+    "fileNames": [
+      "tar.d.ts"
+    ]
+  },
+  {
+    "packageName": "tcomb",
+    "fileNames": [
+      "tcomb.d.ts"
+    ]
+  },
+  {
+    "packageName": "tea-merge",
+    "fileNames": [
+      "tea-merge.d.ts"
+    ]
+  },
+  {
+    "packageName": "tedious",
+    "fileNames": [
+      "tedious.d.ts"
+    ]
+  },
+  {
+    "packageName": "tedious-connection-pool",
+    "fileNames": [
+      "tedious-connection-pool.d.ts"
+    ]
+  },
+  {
+    "packageName": "teechart",
+    "fileNames": [
+      "teechart.d.ts"
+    ]
+  },
+  {
+    "packageName": "temp",
+    "fileNames": [
+      "temp.d.ts"
+    ]
+  },
+  {
+    "packageName": "temp-fs",
+    "fileNames": [
+      "temp-fs.d.ts"
+    ]
+  },
+  {
+    "packageName": "tether",
+    "fileNames": [
+      "tether.d.ts"
+    ]
+  },
+  {
+    "packageName": "tether-shepherd",
+    "fileNames": [
+      "tether-shepherd.d.ts"
+    ]
+  },
+  {
+    "packageName": "text-buffer",
+    "fileNames": [
+      "text-buffer.d.ts"
+    ]
+  },
+  {
+    "packageName": "text-encoding",
+    "fileNames": [
+      "text-encoding.d.ts"
+    ]
+  },
+  {
+    "packageName": "threejs",
+    "fileNames": [
+      "detector.d.ts",
+      "three-FirstPersonControls.d.ts",
+      "three-canvasrenderer.d.ts",
+      "three-copyshader.d.ts",
+      "three-css3drenderer.d.ts",
+      "three-editorcontrols.d.ts",
+      "three-effectcomposer.d.ts",
+      "three-maskpass.d.ts",
+      "three-orbitcontrols.d.ts",
+      "three-projector.d.ts",
+      "three-renderpass.d.ts",
+      "three-shaderpass.d.ts",
+      "three-trackballcontrols.d.ts",
+      "three-transformcontrols.d.ts",
+      "three-vrcontrols.d.ts",
+      "three-vreffect.d.ts",
+      "three.d.ts"
+    ]
+  },
+  {
+    "packageName": "thrift",
+    "fileNames": [
+      "thrift.d.ts"
+    ]
+  },
+  {
+    "packageName": "through",
+    "fileNames": [
+      "through.d.ts"
+    ]
+  },
+  {
+    "packageName": "through2",
+    "fileNames": [
+      "through2.d.ts"
+    ]
+  },
+  {
+    "packageName": "timelinejs",
+    "fileNames": [
+      "timelinejs.d.ts"
+    ]
+  },
+  {
+    "packageName": "timezone-js",
+    "fileNames": [
+      "timezone-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "timezonecomplete",
+    "fileNames": [
+      "timezonecomplete.d.ts"
+    ]
+  },
+  {
+    "packageName": "tinycolor",
+    "fileNames": [
+      "tinycolor.d.ts"
+    ]
+  },
+  {
+    "packageName": "titanium",
+    "fileNames": [
+      "titanium.d.ts"
+    ]
+  },
+  {
+    "packageName": "title-case",
+    "fileNames": [
+      "title-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "tmp",
+    "fileNames": [
+      "tmp.d.ts"
+    ]
+  },
+  {
+    "packageName": "to-title-case-gouch",
+    "fileNames": [
+      "to-title-case-gouch.d.ts"
+    ]
+  },
+  {
+    "packageName": "toastr",
+    "fileNames": [
+      "toastr.d.ts"
+    ]
+  },
+  {
+    "packageName": "tooltipster",
+    "fileNames": [
+      "tooltipster.d.ts"
+    ]
+  },
+  {
+    "packageName": "touch-events",
+    "fileNames": [
+      "touch-events.d.ts"
+    ]
+  },
+  {
+    "packageName": "traceback",
+    "fileNames": [
+      "traceback.d.ts"
+    ]
+  },
+  {
+    "packageName": "traverson",
+    "fileNames": [
+      "traverson.d.ts"
+    ]
+  },
+  {
+    "packageName": "trunk8",
+    "fileNames": [
+      "trunk8.d.ts"
+    ]
+  },
+  {
+    "packageName": "tsmonad",
+    "fileNames": [
+      "tsmonad.d.ts"
+    ]
+  },
+  {
+    "packageName": "tspromise",
+    "fileNames": [
+      "tspromise.d.ts"
+    ]
+  },
+  {
+    "packageName": "turf",
+    "fileNames": [
+      "turf.d.ts"
+    ]
+  },
+  {
+    "packageName": "tv4",
+    "fileNames": [
+      "tv4-1.2.4.d.ts",
+      "tv4.d.ts"
+    ]
+  },
+  {
+    "packageName": "tween.js",
+    "fileNames": [
+      "tween.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "tweenjs",
+    "fileNames": [
+      "tweenjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "twig",
+    "fileNames": [
+      "twig.d.ts"
+    ]
+  },
+  {
+    "packageName": "twitter",
+    "fileNames": [
+      "twitter.d.ts"
+    ]
+  },
+  {
+    "packageName": "twix",
+    "fileNames": [
+      "twix.d.ts"
+    ]
+  },
+  {
+    "packageName": "type-check",
+    "fileNames": [
+      "type-check.d.ts"
+    ]
+  },
+  {
+    "packageName": "type-detect",
+    "fileNames": [
+      "type-detect.d.ts"
+    ]
+  },
+  {
+    "packageName": "type-name",
+    "fileNames": [
+      "type-name.d.ts"
+    ]
+  },
+  {
+    "packageName": "typeahead",
+    "fileNames": [
+      "typeahead.d.ts"
+    ]
+  },
+  {
+    "packageName": "typescript",
+    "fileNames": [
+      "typescript.d.ts"
+    ]
+  },
+  {
+    "packageName": "typescript-deferred",
+    "fileNames": [
+      "typescript-deferred.d.ts"
+    ]
+  },
+  {
+    "packageName": "typescript-services",
+    "fileNames": [
+      "typescriptServices.d.ts"
+    ]
+  },
+  {
+    "packageName": "ua-parser-js",
+    "fileNames": [
+      "ua-parser-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "ui-grid",
+    "fileNames": [
+      "ui-grid.d.ts"
+    ]
+  },
+  {
+    "packageName": "ui-router-extras",
+    "fileNames": [
+      "ui-router-extras.d.ts"
+    ]
+  },
+  {
+    "packageName": "uikit",
+    "fileNames": [
+      "uikit.d.ts"
+    ]
+  },
+  {
+    "packageName": "umbraco",
+    "fileNames": [
+      "umbraco-resources.d.ts",
+      "umbraco-services.d.ts",
+      "umbraco.d.ts"
+    ]
+  },
+  {
+    "packageName": "umzug",
+    "fileNames": [
+      "umzug.d.ts"
+    ]
+  },
+  {
+    "packageName": "underscore",
+    "fileNames": [
+      "underscore.d.ts"
+    ]
+  },
+  {
+    "packageName": "underscore-ko",
+    "fileNames": [
+      "underscore-ko.d.ts"
+    ]
+  },
+  {
+    "packageName": "underscore.string",
+    "fileNames": [
+      "underscore.string.d.ts"
+    ]
+  },
+  {
+    "packageName": "undertaker",
+    "fileNames": [
+      "undertaker.d.ts"
+    ]
+  },
+  {
+    "packageName": "uniq",
+    "fileNames": [
+      "uniq.d.ts"
+    ]
+  },
+  {
+    "packageName": "unique-random",
+    "fileNames": [
+      "unique-random.d.ts"
+    ]
+  },
+  {
+    "packageName": "unity-webapi",
+    "fileNames": [
+      "unity-webapi.d.ts"
+    ]
+  },
+  {
+    "packageName": "universal-analytics",
+    "fileNames": [
+      "universal-analytics.d.ts"
+    ]
+  },
+  {
+    "packageName": "unorm",
+    "fileNames": [
+      "unorm.d.ts"
+    ]
+  },
+  {
+    "packageName": "update-notifier",
+    "fileNames": [
+      "update-notifier.d.ts"
+    ]
+  },
+  {
+    "packageName": "upper-case",
+    "fileNames": [
+      "upper-case.d.ts"
+    ]
+  },
+  {
+    "packageName": "upper-case-first",
+    "fileNames": [
+      "upper-case-first.d.ts"
+    ]
+  },
+  {
+    "packageName": "urbanairship-cordova",
+    "fileNames": [
+      "urbanairship-cordova.d.ts"
+    ]
+  },
+  {
+    "packageName": "uri-templates",
+    "fileNames": [
+      "uri-templates.d.ts"
+    ]
+  },
+  {
+    "packageName": "urijs",
+    "fileNames": [
+      "URIjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "url-template",
+    "fileNames": [
+      "url-template.d.ts"
+    ]
+  },
+  {
+    "packageName": "urlrouter",
+    "fileNames": [
+      "urlrouter.d.ts"
+    ]
+  },
+  {
+    "packageName": "urlsafe-base64",
+    "fileNames": [
+      "urlsafe-base64.d.ts"
+    ]
+  },
+  {
+    "packageName": "usage",
+    "fileNames": [
+      "usage.d.ts"
+    ]
+  },
+  {
+    "packageName": "utils-merge",
+    "fileNames": [
+      "utils-merge.d.ts"
+    ]
+  },
+  {
+    "packageName": "uuid",
+    "fileNames": [
+      "UUID.d.ts"
+    ]
+  },
+  {
+    "packageName": "valerie",
+    "fileNames": [
+      "valerie.d.ts"
+    ]
+  },
+  {
+    "packageName": "validator",
+    "fileNames": [
+      "validator.d.ts"
+    ]
+  },
+  {
+    "packageName": "vega",
+    "fileNames": [
+      "vega.d.ts"
+    ]
+  },
+  {
+    "packageName": "velocity-animate",
+    "fileNames": [
+      "velocity-animate.d.ts"
+    ]
+  },
+  {
+    "packageName": "vex-js",
+    "fileNames": [
+      "vex-js.d.ts"
+    ]
+  },
+  {
+    "packageName": "vexflow",
+    "fileNames": [
+      "vexflow.d.ts"
+    ]
+  },
+  {
+    "packageName": "victor",
+    "fileNames": [
+      "victor.d.ts"
+    ]
+  },
+  {
+    "packageName": "videojs",
+    "fileNames": [
+      "videojs.d.ts"
+    ]
+  },
+  {
+    "packageName": "viewporter",
+    "fileNames": [
+      "viewporter.d.ts"
+    ]
+  },
+  {
+    "packageName": "vimeo",
+    "fileNames": [
+      "froogaloop.d.ts"
+    ]
+  },
+  {
+    "packageName": "vinyl",
+    "fileNames": [
+      "vinyl.d.ts"
+    ]
+  },
+  {
+    "packageName": "vinyl-buffer",
+    "fileNames": [
+      "vinyl-buffer.d.ts"
+    ]
+  },
+  {
+    "packageName": "vinyl-fs",
+    "fileNames": [
+      "vinyl-fs.d.ts"
+    ]
+  },
+  {
+    "packageName": "vinyl-paths",
+    "fileNames": [
+      "vinyl-paths.d.ts"
+    ]
+  },
+  {
+    "packageName": "vinyl-source-stream",
+    "fileNames": [
+      "vinyl-source-stream.d.ts"
+    ]
+  },
+  {
+    "packageName": "virtual-dom",
+    "fileNames": [
+      "virtual-dom.d.ts"
+    ]
+  },
+  {
+    "packageName": "vortex-web-client",
+    "fileNames": [
+      "vortex-web-client.d.ts"
+    ]
+  },
+  {
+    "packageName": "voximplant-websdk",
+    "fileNames": [
+      "voximplant-websdk.d.ts"
+    ]
+  },
+  {
+    "packageName": "vso-node-api",
+    "fileNames": [
+      "vso-node-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "vue",
+    "fileNames": [
+      "vue.d.ts"
+    ]
+  },
+  {
+    "packageName": "wake_on_lan",
+    "fileNames": [
+      "wake_on_lan.d.ts"
+    ]
+  },
+  {
+    "packageName": "watch",
+    "fileNames": [
+      "watch.d.ts"
+    ]
+  },
+  {
+    "packageName": "webaudioapi",
+    "fileNames": [
+      "waa.d.ts"
+    ]
+  },
+  {
+    "packageName": "webcl",
+    "fileNames": [
+      "webcl.d.ts"
+    ]
+  },
+  {
+    "packageName": "webcola",
+    "fileNames": [
+      "webcola.d.ts"
+    ]
+  },
+  {
+    "packageName": "webcomponents.js",
+    "fileNames": [
+      "webcomponents.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "webcrypto",
+    "fileNames": [
+      "WebCrypto.d.ts"
+    ]
+  },
+  {
+    "packageName": "webdriverio",
+    "fileNames": [
+      "webdriverio.d.ts"
+    ]
+  },
+  {
+    "packageName": "webfontloader",
+    "fileNames": [
+      "webfontloader.d.ts"
+    ]
+  },
+  {
+    "packageName": "webgl-ext",
+    "fileNames": [
+      "webgl-ext.d.ts"
+    ]
+  },
+  {
+    "packageName": "webix",
+    "fileNames": [
+      "webix-2.3.0.d.ts",
+      "webix.d.ts"
+    ]
+  },
+  {
+    "packageName": "webmidi",
+    "fileNames": [
+      "webmidi.d.ts"
+    ]
+  },
+  {
+    "packageName": "webpack",
+    "fileNames": [
+      "webpack-env.d.ts",
+      "webpack.d.ts"
+    ]
+  },
+  {
+    "packageName": "webrtc",
+    "fileNames": [
+      "MediaStream.d.ts",
+      "RTCPeerConnection.d.ts"
+    ]
+  },
+  {
+    "packageName": "websocket",
+    "fileNames": [
+      "websocket.d.ts"
+    ]
+  },
+  {
+    "packageName": "webspeechapi",
+    "fileNames": [
+      "webspeechapi.d.ts"
+    ]
+  },
+  {
+    "packageName": "websql",
+    "fileNames": [
+      "websql.d.ts"
+    ]
+  },
+  {
+    "packageName": "webvr-api",
+    "fileNames": [
+      "webvr-api.d.ts"
+    ]
+  },
+  {
+    "packageName": "whatwg-fetch",
+    "fileNames": [
+      "whatwg-fetch.d.ts"
+    ]
+  },
+  {
+    "packageName": "when",
+    "fileNames": [
+      "when.d.ts"
+    ]
+  },
+  {
+    "packageName": "which",
+    "fileNames": [
+      "which.d.ts"
+    ]
+  },
+  {
+    "packageName": "windows-service",
+    "fileNames": [
+      "windows-service.d.ts"
+    ]
+  },
+  {
+    "packageName": "winjs",
+    "fileNames": [
+      "winjs-1.0.d.ts",
+      "winjs-2.0.d.ts",
+      "winjs-2.1.d.ts",
+      "winjs.d.ts"
+    ]
+  },
+  {
+    "packageName": "winrt",
+    "fileNames": [
+      "winrt.d.ts"
+    ]
+  },
+  {
+    "packageName": "winston",
+    "fileNames": [
+      "winston.d.ts"
+    ]
+  },
+  {
+    "packageName": "wnumb",
+    "fileNames": [
+      "wnumb.d.ts"
+    ]
+  },
+  {
+    "packageName": "wolfy87-eventemitter",
+    "fileNames": [
+      "wolfy87-eventemitter.d.ts"
+    ]
+  },
+  {
+    "packageName": "wordcloud",
+    "fileNames": [
+      "wordcloud.d.ts"
+    ]
+  },
+  {
+    "packageName": "wreck",
+    "fileNames": [
+      "wreck.d.ts"
+    ]
+  },
+  {
+    "packageName": "wrench",
+    "fileNames": [
+      "wrench.d.ts"
+    ]
+  },
+  {
+    "packageName": "ws",
+    "fileNames": [
+      "ws.d.ts"
+    ]
+  },
+  {
+    "packageName": "wu",
+    "fileNames": [
+      "wu.d.ts"
+    ]
+  },
+  {
+    "packageName": "x-editable",
+    "fileNames": [
+      "x-editable.d.ts"
+    ]
+  },
+  {
+    "packageName": "x2js",
+    "fileNames": [
+      "xml2json.d.ts"
+    ]
+  },
+  {
+    "packageName": "xdate",
+    "fileNames": [
+      "xdate.d.ts"
+    ]
+  },
+  {
+    "packageName": "xlsx",
+    "fileNames": [
+      "xlsx.d.ts"
+    ]
+  },
+  {
+    "packageName": "xml-parser",
+    "fileNames": [
+      "xml-parser.d.ts"
+    ]
+  },
+  {
+    "packageName": "xml2js",
+    "fileNames": [
+      "xml2js.d.ts"
+    ]
+  },
+  {
+    "packageName": "xmlbuilder",
+    "fileNames": [
+      "xmlbuilder.d.ts"
+    ]
+  },
+  {
+    "packageName": "xpath",
+    "fileNames": [
+      "xpath.d.ts"
+    ]
+  },
+  {
+    "packageName": "xregexp",
+    "fileNames": [
+      "xregexp.d.ts"
+    ]
+  },
+  {
+    "packageName": "xrm",
+    "fileNames": [
+      "parature.d.ts",
+      "xrm-6.d.ts",
+      "xrm-7.0.d.ts",
+      "xrm.d.ts"
+    ]
+  },
+  {
+    "packageName": "xsockets",
+    "fileNames": [
+      "XSockets.d.ts"
+    ]
+  },
+  {
+    "packageName": "xss-filters",
+    "fileNames": [
+      "xss-filters.d.ts"
+    ]
+  },
+  {
+    "packageName": "yamljs",
+    "fileNames": [
+      "yamljs.d.ts"
+    ]
+  },
+  {
+    "packageName": "yargs",
+    "fileNames": [
+      "yargs.d.ts"
+    ]
+  },
+  {
+    "packageName": "ydn-db",
+    "fileNames": [
+      "ydn-db.d.ts"
+    ]
+  },
+  {
+    "packageName": "yeoman-generator",
+    "fileNames": [
+      "yeoman-generator.d.ts"
+    ]
+  },
+  {
+    "packageName": "yosay",
+    "fileNames": [
+      "yosay.d.ts"
+    ]
+  },
+  {
+    "packageName": "youtube",
+    "fileNames": [
+      "youtube.d.ts"
+    ]
+  },
+  {
+    "packageName": "yui",
+    "fileNames": [
+      "yui-test.d.ts",
+      "yui.d.ts"
+    ]
+  },
+  {
+    "packageName": "z-schema",
+    "fileNames": [
+      "z-schema.d.ts"
+    ]
+  },
+  {
+    "packageName": "zepto",
+    "fileNames": [
+      "zepto.d.ts"
+    ]
+  },
+  {
+    "packageName": "zeroclipboard",
+    "fileNames": [
+      "zeroclipboard-1.x.x.d.ts",
+      "zeroclipboard.d.ts"
+    ]
+  },
+  {
+    "packageName": "zip.js",
+    "fileNames": [
+      "zip.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "zone.js",
+    "fileNames": [
+      "zone.js.d.ts"
+    ]
+  },
+  {
+    "packageName": "zynga-scroller",
+    "fileNames": [
+      "zynga-scroller.d.ts"
+    ]
+  }
+]
